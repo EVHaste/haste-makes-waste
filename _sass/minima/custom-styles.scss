@@ -1,8 +1,8 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
-//Header styling
-//
+// Header styling
+// Defines a flex container, positioning, and some formatting tweaks.
 .site-header {
 
 background-color: #202020;
@@ -14,6 +14,24 @@ border-right: 1px solid black;
 
 }
 
+.site-nav {
+  display: flex;
+  top: 9px;
+}
+
+
+// Strictly size and color overrides.
+.site-title {
+  @include relative-font-size(1.5);
+  color: #D0CCD0;
+
+  &,
+  &:visited {
+    color: #D0CCD0;
+  }
+}
+
+
 // Content styling
 //
 .page-content {
@@ -22,10 +40,7 @@ display: flex;
 justify-content: flex-start;
 }
 
-// Footer styling
-//
-.site-footer {
-/* background-color: green; */
-display: flex;
-
+.post-link {
+  @include relative-font-size(2);
+  color: #008080;
 }
