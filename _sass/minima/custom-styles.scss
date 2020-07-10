@@ -42,7 +42,11 @@ border: none;
 .page-content {
 background-color: #D0CCD0;
 display: flex;
-justify-content: flex-start;
+
+}
+
+.post-content {
+  display: flex;
 }
 
 .post-link {

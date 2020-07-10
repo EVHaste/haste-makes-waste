@@ -6,6 +6,9 @@
   border-bottom: 1px solid $border-color-01;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
+  display: flex;
+  align-content: center;
+  justify-content: center;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -17,6 +20,9 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  display: flex;
+  align-content: center;
+  justify-content: center;
 
   @include media-query($on-palm) {
     padding-right: 45px;
@@ -200,6 +206,14 @@
 /**
  * Page content
  */
+
+.header-image {
+display: flex;
+max-width: 200px;
+max-height: 200px;
+
+}
+
 .page-content {
   padding: $spacing-unit 0;
   flex: 1 0 auto;
