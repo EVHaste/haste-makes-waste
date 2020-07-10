@@ -89,7 +89,8 @@
     &:not(:last-child) {
       margin-right: 0;
     }
-    margin-left: 20px;
+    margin-top: 10px;
+    margin-left: 14px;
   }
 
   @media screen and (min-width: $on-medium) {
@@ -111,13 +112,14 @@
     }
 
     .page-link {
-      display: inline;
+      display: flex;
       padding: 0;
 
-      &:not(:last-child) {
-        margin-right: 20px;
-      }
-      margin-left: auto;
+// Commenting this out because I'm honestly not sure what they're going for.
+//      &:not(:last-child) {
+//        margin-right: 20px;
+//      }
+//      margin-left: auto;
     }
   }
 }
@@ -206,13 +208,6 @@
 /**
  * Page content
  */
-
-.header-image {
-display: flex;
-max-width: 200px;
-max-height: 200px;
-
-}
 
 .page-content {
   padding: $spacing-unit 0;
