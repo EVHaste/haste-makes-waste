@@ -7,15 +7,17 @@
 
 background-color: #202020;
 display: flex;
-width: 20%;
+max-width: 480px;
 height: 100%;
 position: fixed;
-border-right: 1px solid black;
+border-right: 2px solid black;
+flex-direction: column;
 
 }
 
 .site-nav {
   display: flex;
+  flex-direction: column;
   top: 9px;
 }
 
@@ -30,6 +32,8 @@ border-right: 1px solid black;
     color: #D0CCD0;
   }
 }
+
+
 
 
 // Content styling
