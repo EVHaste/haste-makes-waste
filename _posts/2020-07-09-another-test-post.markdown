@@ -6,7 +6,7 @@ categories:
 ---
 
 There's nothing to see here. I'm just curious how the homepage will render
-multiple posts.
+multiple posts. <!--more-->
 
 These are some words
 

@@ -32,6 +32,8 @@ github_username: ValentineRain
 theme: minima
 plugins:
   - jekyll-feed
+show_excerpts: true;
+excerpt_separator: <!--more-->
 
 # Exclude from processing.
 # The following items will not be processed, by default.
