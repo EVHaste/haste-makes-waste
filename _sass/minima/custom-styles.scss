@@ -67,14 +67,12 @@ filter: drop-shadow(0px 10px 10px rgba(0,0,0,0.5));
 // Content styling
 //
 .page-content {
-background-color: #D0CCD0;
-display: flex;
-
-}
-
-.post-content {
+  background-color: #D0CCD0;
   display: flex;
+
 }
+
+
 
 .post-link {
   @include relative-font-size(2);

@@ -5,7 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <div class="header-image">
-          <img src="../assets/images/avi.png" alt="Nancy Drew; sorry, I don't do pictures.">
+          <img src="/assets/images/avi.png" alt="Nancy Drew">
     </div>
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
