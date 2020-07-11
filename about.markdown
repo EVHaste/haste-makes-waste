@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+o hei fam!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is **Elizabeth Haste**, but I can tell we're going to be great friends, so you can just call me **Val**! My pronouns are *she/her*. I will also answer to *Your Majesty*.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm a queer leader, a woman in tech, a feminist, a witch, an anarchist, and a badass.
+
+My irl alignment is chaotic-good, at BEST. When I grow up, I want to be a necromancer.
+
+Also, I once ate so much spaghetti and threw up so hard, that I had an out-of-body experience.
+
+<sub><sub>That is a true story.</sub></sub>
 
 
-[jekyll-organization]: https://github.com/jekyll
+***
+
+This blog is a space for the following thoughtcrimes:
+
+* Poetry and prose
+* Tabletop adventures
+* LGBTQIA+ topics
+* Pictures of my cat
+* Whatever else seems fun
