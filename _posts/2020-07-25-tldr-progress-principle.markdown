@@ -16,7 +16,7 @@ Let's start with *The Progress Principle*, by Teresa Amabile and Steven Kramer.
 ---
 
 {:style="color:gray; font-size: 80%; text-align: center;"}
-<img src="/assets/images/progress-principle/progress-principle.jpg" alt="The Progress Principle">
+<img src="/assets/images/tldr/progress-principle.jpg" alt="The Progress Principle">
 <br>
 Link to [Goodreads](https://www.goodreads.com/book/show/11721498-the-progress-principle)
 {:style="color:gray; font-size: 80%; text-align: center;"}
@@ -59,7 +59,7 @@ Link to [Goodreads](https://www.goodreads.com/book/show/11721498-the-progress-pr
 
 <br>
 
-<img src="/assets/images/progress-principle/inner-work-life.png" alt="The Inner Work Life System">
+<img src="/assets/images/tldr/inner-work-life.png" alt="The Inner Work Life System">
 
 {:style="color:gray; font-size: 80%; text-align: center;"}
 *Teresa and Steven posit: "Maybe people who are unhappy aren't very productive?"*
