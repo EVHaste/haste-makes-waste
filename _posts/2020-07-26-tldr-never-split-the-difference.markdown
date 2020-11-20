@@ -5,7 +5,7 @@ date:   2020-10-25 05:20:00 -0400
 categories: career
 ---
 
-I'm on a quest to read the founding texts of █████, in part because I like learning stuff, but also because the air outside is poisonous and society is constantly two skips away from supernova.
+I'm on a quest to read the founding texts of WillowTree, in part because I like learning stuff, but also because the air outside is poisonous and society is constantly two skips away from supernova.
 
 Anyway here are my notes on *Never Split the Difference*, by Chris Voss. Sleep tight!
 
@@ -60,8 +60,7 @@ Link to [Goodreads](https://www.goodreads.com/book/show/26156469-never-split-the
   > Sleeping in the same bed but dreaming different dreams is an old Chinese expression that describes the intimacy of partnership…without the communication necessary to sustain it.
 
 * Due to the sensitive nature of his work, he provides pseudonyms for some of the characters in his story. Totally understandable. But one of the names provided is “Jesus Bueno”, and while Voss never specifies whether that one was a pseudonym, I really hope it isn't. Because otherwise, he chose that out of the infinite number of combinations available to him.
-  * Incidentally, there is at least [one real person with this name](https://www.espn.com/soccer/player/_/id/271536/jesus-bueno).
-    * Hostage-Negotiation-Student Mr. Bueno: if you exist and you're reading this I'm sorry I doubted you. 😭
+  * Incidentally, there is at least [one real person with this name](https://www.espn.com/soccer/player/_/id/271536/jesus-bueno). No relation!
 
 <br>
 
@@ -87,4 +86,7 @@ I give it one out of five peppers. 🌶
 **Congratulations!**
 
 (You just read **258 pages!** 🎉)
+{:style="color:gray; font-size: 80%; text-align: center;"}
+
+Obligatory disclaimer: the views expressed here are my own, and do not represent WillowTree or its partners. I am doing this purely for funsies.
 {:style="color:gray; font-size: 80%; text-align: center;"}

@@ -5,7 +5,7 @@ date:   2020-10-25 05:20:00 -0400
 categories: career
 ---
 
-█████ has a  growing list of career development resources which are foundational to its core values and culture. There's usually a solid pamphlet worth of valuable information in them, but you can't sell a pamphlet so the authors keep writing books instead.
+WillowTree has a  growing list of career development resources which are foundational to its core values and culture. There's usually a solid pamphlet worth of valuable information in them, but you can't sell a pamphlet so the authors keep writing books instead.
 
 I'm on a mission to condense each one of these texts into its most salient points. I'll read them, so you don't have to.
 
@@ -83,7 +83,7 @@ Link to [Goodreads](https://www.goodreads.com/book/show/11721498-the-progress-pr
 
 ---
 
-## Here are some ideas which are foundational to █████ which you can spot in this book!
+## Here are some ideas which are foundational to WillowTree which you can spot in this book!
 
 <br>
 
@@ -133,4 +133,7 @@ I think I would have liked to see a larger, more representative sample for their
 **Congratulations!**
 
 (You just read **191 pages!** 🎉)
+{:style="color:gray; font-size: 80%; text-align: center;"}
+
+Obligatory disclaimer: the views expressed here are my own, and do not represent WillowTree or its partners. Please don't @ me.
 {:style="color:gray; font-size: 80%; text-align: center;"}
