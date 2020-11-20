@@ -22,7 +22,7 @@ Please be excellent to each other!
 
 It was founded on November 20th, 1999 in **Allston, Massachusetts,** to honor the late **Rita Hester**. Rita had been tragically murdered the year prior, and when the story was picked up by local newspaper, *The Herald*, **her identity was systematically denied and misrepresented**. Rita was referred to by the wrong pronouns, and incorrectly accused of being a “transvestite” with a “double life”.
 
-Even after correction by the public, *The Herald* was **resistant to issuing corrections** and [published followup stories which continued to misgender Rita](http://www.gendertalk.com/language-of-respect/). Further, many of those assumptions could be found in the original police report, which demonstrates just how deeply rooted lack of understanding and intolerance for transgender people is in society.
+Even after correction by the public, *The Herald* was **resistant to issuing corrections** and [published followup stories which continued to misgender Rita](http://www.gendertalk.com/language-of-respect/). Further, many of those assumptions could be **found in the original police report**, which demonstrates just how deeply rooted lack of understanding and intolerance for transgender people is in society.
 
 TDoR was later founded by **Gwendolyn Ann Smith** in Rita’s memory. You can find more information on the individuals we are memorializing on this day on [her website](https://tdor.info/), which is updated annually.
 
@@ -40,7 +40,7 @@ Speaking broadly, transgender people have a **gender identity** or **gender expr
 
 A transgender person **does not have to complete any particular step**. They are done when they decide that they are done. **Every journey is bespoke, and highly personal**. The only important measure is, *do you feel like your authentic self?*
 
-If you’re interested in what it feels like to be transgender or experience gender dysphoria, a great start would be checking out [art made by the queer community](https://www.npr.org/sections/pictureshow/2020/06/30/883930251/documenting-gender-dysphoria). If you’d like to learn more about being an effective ally, please take a look at these [frequently asked questions])(https://www.transempowerment.org/news-info/trans-ally-frequently-asked-questions/). And if this topic has sparked something in you, you might also consider exploring [some of these resources](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria) with a qualified therapist. But at the end of the day, [the only one who can decide is you](http://genderjusticenv.org/2016/02/23/ask-gender-therapist-know-im-transgender/)! :)
+If you’re interested in what it feels like to be transgender or experience gender dysphoria, a great start would be checking out [art made by the queer community](https://www.npr.org/sections/pictureshow/2020/06/30/883930251/documenting-gender-dysphoria). If you’d like to learn more about being an effective ally, please take a look at these [frequently asked questions](https://www.transempowerment.org/news-info/trans-ally-frequently-asked-questions/). And if this topic has sparked something in you, you might also consider exploring [some of these resources](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria) with a qualified therapist. But at the end of the day, [the only one who can decide is you](http://genderjusticenv.org/2016/02/23/ask-gender-therapist-know-im-transgender/)! :)
 
 ---
 
