@@ -13,12 +13,6 @@ Please be excellent to each other!
 
 ---
 
-*Hey fam, quick note: this article was originally shared internally, and was made possible by the combined research of many, excellent people, including: Fynn, Madeleine, Jenny, Ralph, Cyan, Spud, Teresa, Christine, and a handful of mysterious benefactors from the WillowTree Pride ERG. Their input was invaluable. If the formatting is weird, that's on me!*
-
-*Also, special thanks to the Trees of Color ERG's Juneteenth production, from whom we borrowed this structure.*
-
----
-
 {:style="color:gray; font-size: 80%; text-align: center;"}
 <img src="/assets/images/trans-flag.jpg" alt="Transgender Pride Flag">
 
@@ -158,6 +152,8 @@ And here’s some transgender and non-binary folks who are doing great things in
 
 I hope something you learned has inspired you to take action. It's a lot of information, for sure, but don't worry, *I will repost it until the heat death of the universe.*
 
+This article was originally shared internally at WillowTree, and was made possible by the combined research of many excellent people, including: **Fynn, Madeleine, Jenny, Ralph, Cyan, Spud, Teresa, Christine**, and a handful of mysterious benefactors from the WillowTree Pride ERG. Their input was invaluable. Special thanks to the **Trees of Color ERG**'s Juneteenth production, from whom we borrowed this structure.
+
 May you ever be a force for good, who loves and cherishes others for what makes them unique.
 
 Have a wonderful weekend! ❤
@@ -165,7 +161,4 @@ Have a wonderful weekend! ❤
 ---
 
 Obligatory disclaimer: the views expressed here are our own, and do not represent WillowTree or its partners.
-{:style="color:gray; font-size: 80%; text-align: center;"}
-
-Fucking *sparkle*, y'all.
 {:style="color:gray; font-size: 80%; text-align: center;"}
