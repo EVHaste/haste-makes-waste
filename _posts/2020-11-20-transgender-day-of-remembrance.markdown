@@ -19,6 +19,7 @@ Please be excellent to each other!
 
 ---
 
+{:style="color:gray; font-size: 80%; text-align: center;"}
 <img src="/assets/images/trans-flag.jpg" alt="Transgender Pride Flag">
 
 ## What Is Transgender Day of Remembrance?
