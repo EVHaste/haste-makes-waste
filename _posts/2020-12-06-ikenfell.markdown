@@ -1,0 +1,148 @@
+---
+layout: post
+title:  "Ikenfell as an Exploration of Trauma and Healing"
+date:   2021-12-05 16:40:00 -0400
+categories: games
+---
+
+For the freshmen: Ikenfell is a turn-based RPG developed by Vancouver-based Happy Ray Games. It follows the adventures of "ordinary" teen Maritte, as she breaks into a magical school in search of her missing sister. Originally Kickstarted in 2016, the promise of _queer Hogwarts_ instantly captivated many muggles still heartbroken over their own missing acceptance letters. It exceeded its modest $25,000 funding goal within just two weeks, and released last month.
+
+It's Harry Potter for the Game Boy Color meets Super Mario RPG in the best way, and if that's all it had turned out to be, I'd have been happy. But Ikenfell also has a surprising amount to say about trust, isolation, and the importance of  human connection as part of the healing process for post-traumatic stress.
+
+<!--more-->
+
+{:style="color:gray; font-size: 80%; text-align: center;"}
+<img src="/assets/images/ikenfell/ikenfell-title.jpg" alt="Ikenfell's Title Screen">
+
+The central thesis of Ikenfell is that **human connection is vital for trauma recovery**. Every character in this game is unified by their compulsion to suffer in secrecy, and each of their arcs explores a way in which vulnerability and compassion for the self can free you to live authentically.
+
+By the way, this analysis **will contain spoilers** for the entirety of Ikenfell, so if you have any intention of playing it, I recommend you come back later. [It's currently $20 on Steam](https://store.steampowered.com/app/854940/Ikenfell/), and [also available on most consoles](https://www.nintendo.com/games/detail/ikenfell-switch/). I thought it was really fun; it's only about 19 hours long, has a cute soundtrack from the composers of Steven Universe, and contains an impressive suite of accessibility options that make it approachable for new players. We love that! :)
+
+---
+
+# Pertisia
+
+In an effort to impress her troublemaking classmate Safina, Pertisia experiments with forbidden blood magic to open a passage to The Unseen; a parallel dimension shrouded in darkness and filled with monsters which relentlessly hunt anyone that speaks within their domain. While exploring The Unseen together, they attract one such creature, and Pertisia is beset upon in an attack which leaves her in critical condition, blind in one eye, and permanently disfigured.
+
+Pertisia's subsequent character arc is primarily motivated by fear of The Unseen. Using cosmetic magic to hide her scars, she conceals her pain from the party (and thus the player) for much of the game. However, cosmetic magic and avoidant behavior cannot heal the emotional and social consequences, as her relationships and sense of self-efficacy decline. Her difficulty processing the attack, and her aversion to asking for help from others, mirrors the stories of many real-life assault survivors struggling with PTSD.
+
+{:style="color:gray; font-size: 80%; text-align: center;"}
+<img src="/assets/images/ikenfell/pertisia-nightmare.jpg" alt="Pertisia describes her nightmares.">
+
+Pertisia is unique in that she is the only character in the game to **refuse to fully cooperate** with the party. Initially encountered as an enemy, she is trapped in a mirror as a result of bullying from Safina.† Even in that condition, she is concerned only with protecting the school from The Unseen, going as far as possessing her cat Snowball to move about the school. Once freed, she remains a non-playable party member for some time, occupying a space in battles but choosing all of her own actions without regard to player input. All the while, her standoffish attitude pushes her future teammates further away.
+
+Combat sections hint that there is more to her motivation than meets the eye; **Pertisia's playstyle is a metaphor for the way she processes stress**. In contrast to her abrasive personality, her spells are primarily defensive, protecting herself and her friends from harm. Though the player may initially assume she has an affinity for ice (in opposition to the main character), through play it's revealed she's actually manipulating shards of glass. Glass is often associated with brittleness, and indeed it is sharp when shattered, as she uses it to attack. However, there's also strength in glass; Pertisia uses thick walls of it to create barriers between herself and others out of a sense of self preservation. As a survivor, social interaction can often feel like talking to someone through a windowpane; you can see them, but truly connecting to someone through that barrier seems impossible.
+
+There are multiple occasions throughout the game in which she leaves the party due to the frustration of not being able to express her feelings. **Pertisia seems almost physically repulsed by vulnerability** at times, visibly struggling with the contradiction of wanting to talk about her experiences, and the compulsion to flee or deflect. Being physically incapable of sharing your feelings is sort of table stakes for PTSD, and I think its portrayal here is really relatable. It can feel like there's a fishing line tied around your spine, threatening to reel you backwards and away from loved ones at the first sign of danger. Pertisia's difficulty trusting the party often leaves her at odds with them, and **it is only through patience and compassion** from Maritte that she is able to slowly reveal her struggles and open up to her new friends.
+
+{:style="color:gray; font-size: 80%; text-align: center;"}
+<img src="/assets/images/ikenfell/prism.jpg" alt="Pertisia's defensive abilities are indicative of the way she responds to stress.">
+
+When Pertisia finally shares her experience with the party, we also learn that her family has practically disowned her in embarrassment after the incident. Even Safina, who narrowly avoided the same attack, has no idea the extent of Pertisia's injuries and never stops to ask, spending the remainder of her time at school avoiding Pertisia out of guilt. It can be inferred that Safina abandoned her immediately after escaping, if not during the attack itself. Pertisia is left to process on her own, without a social network to rely on.
+
+This unfortunately reflects the lived experience of many survivors [stigmatized](https://www.psychologytoday.com/us/blog/why-bad-looks-good/201804/how-social-stigma-silences-domestic-violence-victims) by victim-blaming, and incorrect but often-repeated [survivor myths](https://www.psychologytoday.com/us/blog/lifting-the-veil-trauma/201910/the-stigmatization-trauma). As a result it's [extremely common](https://www.psychologytoday.com/us/blog/healing-sexual-trauma/201908/why-victims-sexual-trauma-feel-alone-and-isolated) for survivors of assault and abuse to self-isolate. In Ikenfell, we see that Pertisia has taken it upon herself to protect her classmates from Safina's continued experimentation with blood magic and The Unseen. She over-compensates, taking full ownership of things she realistically she has no control over, and are ultimately not her responsibility. She is eventually able to overcome her fears, but **only after unlearning the instinct to separate herself from others** and push through it alone.
+
+
+{:style="color:gray; font-size: 80%; text-align: center;"}
+<img src="/assets/images/ikenfell/group-hug.png" alt="The climax of Pertisia's character arc; acceptance of love from others.">
+Group hug!
+
+After gaining confidence in her new friends and seeing first-hand the consequences of bottling your pain indefinitely, Pertisia decides to make a change. She shares her full history with the Unseen in her story's climax, and volunteers to open a passage through it with the faith that they can protect her.
+
+As before, the creature threatens to engulf them during the trip, and she is overcome by a panic attack. The party stands between them and offers to deal with her trigger on her behalf (good allyship!), but Pertisia is resolved to help them. Together they're able to defeat the monster lurking within the Unseen, and in a particularly humanizing moment of aftercare, they decompress and talk it out with a shaken and crying Pertisia.
+
+> # "Thank you for letting us help you. I know it was hard." - Maritte
+
+<br>
+
+Maritte is echoing the game's broader stance on the importance of human connection. Truly, **accepting help from others when you are hurting is one of the most difficult parts of recovery, but it is _vital_.** Without it, you are fighting not just your trauma, but yourself.
+
+I really appreciate that she isn't magically healed in this moment, either. They defeated the (or a?) monster, but Pertista has some work left to do throughout life. In the epilogue, she slips off in the night, and uses that space to come to terms with her place in the world before eventually being reunited with Maritte. It takes her sustained effort to recover from trauma, and it's hard work repairing those relationships. But by doing that work throughout the course of Ikenfell, she **learns to rewrite her story as one of strength, rather than fragility**.
+
+If Pertisia is made of glass, it's definitely more of the bulletproof kind.
+
+---
+
+# Headmistress Aeldra
+
+Aeldra has resorted to self-harm as a coping mechanism, in the wake of the death of her friends in their final, fateful encounter with The Dark Fold. This isn't explicitly stated, but we can safely infer this through the game's description of "blood magic".
+
+Cat ††
+
+
+
+
+
+Vacant expression mimicing post-injury euphoria.
+
+She literally bottles up her emotions, which boil over into a frightful monster. These emotions flood her at a critical moment in the story, blinding her to reality and causing her to lash out in violence. It also escalates in a way which parallels real-life self harming behaviors, commenting that she "wished it lasted longer" and filling the basin with what is, at least metaphorically, her blood ever faster.
+
+{:style="color:gray; font-size: 80%; text-align: center;"}
+<img src="/assets/images/ikenfell/agony.jpg" alt="The Agony boss'">
+
+In a way, Aeldra is the inverse of Voldemort. Where He Who Must Not Be Named was terrified of death for selfish, internal reasons, Aeldra is afraid that those she loves will succumb. Where Voldemort seeks a cure for immortality, Aeldra is obsessed with preventing those close to her from dying. That obsession robs her of the joy of living in the moment.
+
+Eventually she loses it and attacks the party. All of her attacks in this otherwise wholesome game are blood-themed. They are also unique in their erratic flight patterns; her "piercing frenzies" are the only attacks in the game which vary in their animation, flying about in random patterns (and as a result, are quite difficult to defend against). This represents the chaos and panic which has been consuming Aeldra since the day her friends were killed.
+
+> # "Be Gentle With Yourself." - Aeldra's Cottage Core Girlfriend Who's Name I Forgot
+
+Ima remarks: Nobody knew because she "seemed so strong". Basically the reason Mental Health Awareness month exists.
+
+She does eventually learn to rely on others, and forgive herself.
+
+{:style="color:gray; font-size: 80%; text-align: center;"}
+<img src="/assets/images/ikenfell/aeldra-Healing.jpg" alt="Aeldra's Epilogue'">
+
+{:style="color:gray; font-size: 80%; text-align: center;"}
+And then she runs away with her partner and lives out all of my lesbian cottagecore fantasies, the end. No really, that's her epilogue. I love it.
+
+Also she gets the most Undertale-esque song in the game. Flowey vibez!
+
+# Maritte
+
+Seals away her own magic rather than talking it out with others.
+
+Is weirdly kind to Pertisia when no one else is, which shows that she does not hold herself to the same standards.
+
+Most obvious depression allegory. Stops finding joy in anything. Gives up entirely. Has a dark, self-destructive inner dialogue.
+
+# Rook, Safina, and Petronella
+
+Though less obviously rooted in mental health reprecussions, the trio no less suffers from their own secrecy and lack of trust in each other.
+
+Safina's dishonesty is arguably the impetus for the entire quest. As she states herself, "lying is just so easy" for her.
+
+# The Epilogue
+
+The epilogue really sells that feeling of change.
+
+The status quo is entirely shaken. No character remains the same as they started, and it neatly sidesteps many of the resolutions you likely predicted 12 hours ago.
+
+Ultimately what Ikenfell wants you to know is that, in life, change happens. Loss happens. But life continues on, and there is a spot of brightness ahead of you, always. "Things get better", much like Pertisia acknowledges watching the sunset with an older, more mature Maritte as Rook and Gilda sail off for adventures unknown.
+
+Gilda & Maritte break up. But they're okay
+
+Ima does her own things
+
+Pertisia runs away
+
+Petronella finds her confidence.
+
+
+# In Summation
+
+Link between each story arc; resolution by connections with others.
+
+Ikenfell manages to be considerably more adult than many games that lean on explicitly mature themes. It avoids many of the cheap tropes common to media dealing with PTSD, and provides an optimistic outlook on remission and recovery.
+
+I'll absolutely be keeping an eye out for future titles from this studio. And don't think I'm done with this one yet, either; I've still got one more article in me!
+
+Next time we'll talk about diversity, inclusion, and accessibility in Ikenfell!
+<br>
+<sub><sub>Why didn't I write that one first...?</sub></sub>
+
+---
+
+† <sub>(By the way, there's a real tragic irony to her confinement in that mirror. Consider how self-conscious Pertisia has become regarding her appearance, and that former-friend Safina has no idea what Pertisia is concealing, is partially responsible for it, and even seems not to care. In this moment, Pertisia's physical isolation parallels her emotional state. Yikes!)</sub>
+
+†† <sub>(In one of the coolest subversions of the game, the cat in this dungeon still functions as a save point, but with a slightly...different message.)</sub>

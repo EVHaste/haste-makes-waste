@@ -33,22 +33,15 @@ tell me which is greater.
 
 The ice grows thicker, sharper,
 
-encircles her
+encircles her,
 
-even when she doesn't mean it.
+more habit than intent.
 
-<br>
+The only voice she hears
 
+is her own
 
-Sometimes the walls of her cell block all sound.
-
-The only voice is her own,
-
-rarely kind.
-
-She worries there is no end to it,
-
-a permanent frost.
+and it's rarely kind.
 
 <br>
 
@@ -56,15 +49,23 @@ But inside there is a light
 
 to nourish the hearts
 
-of the patient and the worthy.
+of the patient
+
+and the worthy.
+
+A garden which thrives in winter.
 
 <br>
 
 This is not her prison.
 
-It is a measure of control in a maelstrom.
+It is a measure of control
 
-If it speaks to you, then chip away.
+in a maelstrom.
+
+If it speaks to you,
+
+then chip away.
 
 ---
 
