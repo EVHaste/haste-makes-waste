@@ -3,6 +3,8 @@ layout: post
 title:  "The Case of Little Consequence"
 date:   2020-07-10 05:20:00 -0400
 categories: writing
+excerpt: Anna arrived at seven for sentencing. <br><br> The door was closed, the hallway silent. Narrow bulbs buzzed and flickered overhead, the glass in harsh contrast to the dried out husks of moths, and worse. She checked the crumpled piece of paper in her fist again. There was still time to run.
+featured_image: '/images/featured/magnifying-glass.jpg'
 ---
 
 Anna arrived at seven for sentencing.

@@ -3,6 +3,8 @@ layout: post
 title:  "Ikenfell as an Exploration of Trauma and Healing"
 date:   2020-12-05 16:40:00 -0400
 categories: games
+featured_image: '/images/featured/ikenfell-press.jpg'
+excerpt: For the freshmen, Ikenfell is a turn-based RPG developed by Vancouver-based Happy Ray Games. It follows the adventures of "ordinary" teen Maritte, as she breaks into a magical school in search of her missing sister. Originally Kickstarted in 2016, the promise of queer Hogwarts instantly captivated many muggles still heartbroken over their own missing acceptance letters. <br><br> I'd have been satisfied with that premise alone. But it also has a surprising amount to say about trust, isolation, and healing process for post-traumatic stress.
 ---
 
 For the freshmen: Ikenfell is a turn-based RPG developed by Vancouver-based Happy Ray Games. It follows the adventures of "ordinary" teen Maritte, as she breaks into a magical school in search of her missing sister. Originally Kickstarted in 2016, the promise of _queer Hogwarts_ instantly captivated many muggles still heartbroken over their own missing acceptance letters.
@@ -12,7 +14,7 @@ I'd have been satisfied with that premise alone. But it also has a surprising am
 <!--more-->
 
 {:style="color:gray; font-size: 80%; text-align: center;"}
-<img src="/assets/images/ikenfell/ikenfell-title.jpg" alt="Ikenfell's Title Screen">
+![](/images/ikenfell/ikenfell-title.jpg)
 
 The central thesis of Ikenfell is that **human connection is vital for trauma recovery**. Every character in this game is unified by their compulsion to suffer in secrecy, and each of their arcs explores a way in which vulnerability and compassion for the self can free you to live authentically.
 
@@ -29,24 +31,28 @@ In an effort to impress her troublemaking classmate Safina, Pertisia experiments
 Pertisia's subsequent character arc is primarily motivated by fear of The Unseen. Using cosmetic magic to hide her scars, she conceals her pain from the party (and thus the player) for much of the game. However, cosmetic magic and avoidant behavior cannot heal the emotional and social consequences, as her relationships and sense of self-efficacy decline. Her difficulty processing the attack, and her aversion to asking for help from others, mirrors the stories of many real-life assault survivors struggling with PTSD.
 
 {:style="color:gray; font-size: 80%; text-align: center;"}
-<img src="/assets/images/ikenfell/pertisia-nightmare.jpg" alt="Pertisia describes her nightmares.">
+![](/images/ikenfell/pertisia-nightmare.jpg)
 
-Pertisia is unique in that she is the only character in the game to **refuse to fully cooperate** with the party. Initially encountered as an enemy, she is trapped in a mirror as a result of bullying from Safina.† Even in that condition, she is concerned only with protecting the school from The Unseen, going as far as possessing her cat Snowball to move about the school. Once freed, she remains a non-playable party member for some time, occupying a space in battles but choosing all of her own actions without regard to player input. All the while, her standoffish attitude pushes her future teammates further away.
+Pertisia is unique in that she is the only character in the game to **refuse to fully cooperate** with the party. Initially encountered as an enemy, she is trapped in a mirror as a result of bullying from Safina.[^1] Even in that condition, she is concerned only with protecting the school from The Unseen, going as far as possessing her cat Snowball to move about the school. Once freed, she remains a non-playable party member for some time, occupying a space in battles but choosing all of her own actions without regard to player input. All the while, her standoffish attitude pushes her future teammates further away.
+
+[^1]: By the way, there's a real tragic irony to her confinement in that mirror. Consider how self-conscious Pertisia has become regarding her appearance, and that former-friend Safina has no idea what Pertisia is concealing, is partially responsible for it, and even seems not to care. In this moment, Pertisia's physical isolation parallels her emotional state. Yikes!
 
 Combat sections hint that there is more to her motivation than meets the eye; **Pertisia's playstyle is a metaphor for the way she processes stress**. In contrast to her abrasive personality, her spells are primarily defensive, protecting herself and her friends from harm. Though the player may initially assume she has an affinity for ice (in opposition to the main character), through play it's revealed she's actually manipulating shards of glass. Glass is often associated with brittleness, and indeed it is sharp when shattered, as she uses it to attack. However, there's also strength in glass; Pertisia uses thick walls of it to create barriers between herself and others out of a sense of self preservation. As a survivor, social interaction can often feel like talking to someone through a windowpane; you can see them, but truly connecting to someone through that barrier seems impossible.
 
 There are multiple occasions throughout the game in which she leaves the party due to the frustration of not being able to express her feelings. **Pertisia seems almost physically repulsed by vulnerability** at times, visibly struggling with the contradiction of wanting to talk about her experiences, and the compulsion to flee or deflect. Being physically incapable of sharing your feelings is sort of table stakes for PTSD, and I think its portrayal here is really relatable. It can feel like there's a fishing line tied around your spine, threatening to reel you backwards and away from loved ones at the first sign of danger. Pertisia's difficulty trusting the party often leaves her at odds with them, and **it is only through patience and compassion** from Maritte that she is able to slowly reveal her struggles and open up to her new friends.
 
 {:style="color:gray; font-size: 80%; text-align: center;"}
-<img src="/assets/images/ikenfell/prism.jpg" alt="Pertisia's defensive abilities are indicative of the way she responds to stress.">
+![](/images/ikenfell/prism.jpg)
 
 When Pertisia finally shares her experience with the party, we also learn that her family has practically disowned her in embarrassment after the incident. Even Safina, who narrowly avoided the same attack, has no idea the extent of Pertisia's injuries and never stops to ask, spending the remainder of her time at school avoiding Pertisia out of guilt. It can be inferred that Safina abandoned her immediately after escaping, if not during the attack itself. Pertisia is left to process on her own, without a social network to rely on.
 
 This unfortunately reflects the lived experience of many survivors [stigmatized](https://www.psychologytoday.com/us/blog/why-bad-looks-good/201804/how-social-stigma-silences-domestic-violence-victims) by victim-blaming, and incorrect but often-repeated [survivor myths](https://www.psychologytoday.com/us/blog/lifting-the-veil-trauma/201910/the-stigmatization-trauma). As a result it's [extremely common](https://www.psychologytoday.com/us/blog/healing-sexual-trauma/201908/why-victims-sexual-trauma-feel-alone-and-isolated) for survivors of assault and abuse to self-isolate. In Ikenfell, we see that Pertisia has taken it upon herself to protect her classmates from Safina's continued experimentation with blood magic and The Unseen. She over-compensates, taking full ownership of things she realistically she has no control over, and are ultimately not her responsibility. She is eventually able to overcome her fears, but **only after unlearning the instinct to separate herself from others** and push through it alone.
 
 
+
+![](/images/ikenfell/group-hug.png)
+
 {:style="color:gray; font-size: 80%; text-align: center;"}
-<img src="/assets/images/ikenfell/group-hug.png" alt="The climax of Pertisia's character arc; acceptance of love from others.">
 Group hug!
 
 After gaining confidence in her new friends and seeing first-hand the consequences of bottling your pain indefinitely, Pertisia decides to make a change. She shares her full history with the Unseen in her story's climax, and volunteers to open a passage through it with the faith that they can protect her.
@@ -54,8 +60,6 @@ After gaining confidence in her new friends and seeing first-hand the consequenc
 As before, the creature threatens to engulf them during the trip, and she is overcome by a panic attack. The party stands between them and offers to deal with her trigger on her behalf (good allyship!), but Pertisia is resolved to help them. Together they're able to defeat the monster lurking within the Unseen, and in a particularly humanizing moment of aftercare, they decompress and talk it out with a shaken and crying Pertisia.
 
 > # "Thank you for letting us help you. I know it was hard." - Maritte
-
-<br>
 
 Maritte is echoing the game's broader stance on the importance of human connection. Truly, **accepting help from others when you are hurting is one of the most difficult parts of recovery, but it is *crucial*.** Non-negotiable, even. Without it, you are fighting not just your trauma, but yourself.
 
@@ -73,15 +77,11 @@ Baudovinia Aeldra is haunted by the memory of her own monster, known as The Dark
 
 The irony of her situation is that she does not know, in that moment, that the Fold has essentially suffocated. It is dead, and has been neutralized as a threat since before the game even begins. She goes on to spend her every waking moment gripped by paranoia, the seemingly bottomless fear that at any moment the Fold could break free again and take everyone she loves from her.
 
-{:style="color:gray; font-size: 80%; text-align: center;"}
-<img src="/assets/images/ikenfell/aeldra-loss.png" alt="Aeldra's memory.">
-Aeldra's memory.
+![](/images/ikenfell/aeldra-loss.png)
 
 In subsequent memories, we see how this fear robs her life of beauty and meaning. She withdraws from her partner Ifig, who wants to help her recover, and becomes secretive. Aeldra refuses to share her story with any of her peers, and in fact nobody else in Ikenfell is aware of what she has gone through. She doubles down on her duties as Headmistress to distract herself from the pain, building a reputation for being unflappable and in control. It is precisely this facade which denies Aeldra the social network she needs to heal, and eventually becomes the impetus for the adventure.
 
 > ### "But she's still so powerful... **I suppose that's why nobody suspected a thing**." - Ima
-
-<br>
 
 The **root of Aeldra's** suffering is that **she cannot bear to think about or share her loss, and therefore cannot process or heal**. By rejecting vulnerability and denying loved ones the opportunity to support her, her pain metastasizes, and she suffers alone.
 
@@ -89,12 +89,14 @@ One way we can see this in the way that the identities of her friends, whom shou
 
 We also see that Aeldra has **resorted to self-harm as a coping mechanism**. The game does some gymnastics to avoid potentially triggering subject matter, so this isn't *explicitly* stated. However, we can safely infer this is what's happening through the game's description of "blood magic". Aeldra regularly returns to "that room", a messy space with a basin containing what is referred to in-universe as her "agony", but is clearly blood both in coloration and function. When Aeldra has deposited her "agony" in the basin, she is temporarily relieved of her pain and anxiety, often leaving with a vacant expression indicative of a chemical, post-injury euphoria.
 
-Aeldra comments that she "wishes it lasted longer", and is implied to return with increasing frequency in order to cope. This parallels the experience of many that self harm and find themselves building a dangerous and escalating tolerance to the effect over time. After bottling enough of her emotions up this way, they boil over into a frightful monster, which the party confronts at the game's tonal breaking point.††
+Aeldra comments that she "wishes it lasted longer", and is implied to return with increasing frequency in order to cope. This parallels the experience of many that self harm and find themselves building a dangerous and escalating tolerance to the effect over time. After bottling enough of her emotions up this way, they boil over into a frightful monster, which the party confronts at the game's tonal breaking point. [^2]
+
+[^2]: In one of the coolest subversions of the game, the cat in this dungeon still functions as a save point, but with a slightly more...unsettling message.
+
+![](/images/ikenfell/agony.jpg)
 
 {:style="color:gray; font-size: 80%; text-align: center;"}
-<img src="/assets/images/ikenfell/agony.jpg" alt="The Agony boss'">
 Then this very cute game goes all Undertale on you, surprise!
-<br>
 
 Though the party is able to contain the creature, these emotions later break free and flood her senses at a critical moment in the story, blinding her to reality and causing her to lash out against everyone present in violence. From Aeldra's perspective, she is fighting the Dark Fold, which has broken free to attack her school; no one else can see this because it is, in fact, an illusion. In the resulting climactic boss fight against Aeldra, she is **quite explicitly suffering from a flashback**, albeit a magical one.
 
@@ -102,10 +104,11 @@ All of her attacks in this otherwise wholesome game are blood-themed. They are a
 
 The party eventually talks her down from this state, using a combination of ... um, explosions, and magic spells, and... look, it's not a 1:1 allegory, okay?
 
+
+![](/images/ikenfell/aeldra-battle.jpg)
+
 {:style="color:gray; font-size: 80%; text-align: center;"}
-<img src="/assets/images/ikenfell/aeldra-battle.jpg" alt="Aeldra boss fight.'">
 Aeldra, honey, stop, this isn't sanitary.
-<br>
 
 Ultimately, Aeldra is trapped in a loop familiar to survivors gripped with PTSD; the compulsion to view and review trauma, to re-experience loss as if it were happening in the present. Her condition is allowed to fester precisely because she attempts to resolve it alone, denying others the opportunity to stand by her.
 
@@ -113,14 +116,13 @@ In the game's conclusion, then, the developers contends that the **only way this
 
 > # "Be gentle with yourself." - Ifig
 
-<br>
-
 After being defeated, Aeldra finally accepts support from Ifig, who holds and consoles her. Aeldra seems receptive of the feedback that she is not solely responsible for the well-being of everyone around her, and that **trying to atone for the imaginary transgression of surviving is neither healthy nor sustainable**. She's even able to participate a bit in the game's resolution; her frantic attacks during her flashback have critically (if temporarily) wounded another character, so, we gotta fix that. Plus, what RPG would be complete without a multi-stage boss fight, apropos of nothing, against the embodiment of darkness itself?
 
 Skip a couple of scenes, and in Ikenfell's epilogue Aeldra steps down as Headmistress. She is shown eventually learning to rely on others, though like Pertisia, this takes her longer to achieve than can be depicted in the moment. It's difficult work, which takes time and persistence, but **the game remains adamant that with determination, recovery is possible**. Most importantly, Aeldra makes peace with her survivor's guilt, and is finally able to live in the moment with her partner.
 
+![](/images/ikenfell/aeldra-healing.jpg)
+
 {:style="color:gray; font-size: 80%; text-align: center;"}
-<img src="/assets/images/ikenfell/aeldra-Healing.jpg" alt="Aeldra's Epilogue'">
 And then she runs away with Ifig and lives out all of my lesbian cottagecore fantasies.
 
 In a way, Aeldra arc is the inverse of Harry Potter's lord Voldemort. Where He Who Must Not Be Named was terrified of death for selfish, personal reasons, Aeldra is afraid that those she loves will succumb. Where Voldemort seeks a cure for his own mortality, Aeldra is only obsessed with protecting those close to her, to the exclusion of being able to enjoy their company. Though well-intentioned, her obsession robs her life of joy, and nearly causes a similar collapse in society. She's definitely more sympathetic, and her conflict is resolved with empathy moreso than violence, but her response to fear is portrayed as equally harmful when left unchecked.
@@ -138,15 +140,7 @@ The arcs of Pertisia and Aeldra form a narrative that highly values **the healin
 
 Much as Pertisia remarks while watching the that final sunset with Maritte, **"things get better"**.
 
-{:style="color:gray; font-size: 80%; text-align: center;"}
-<img src="/assets/images/ikenfell/the-end.jpg" alt="Ending title card.'">
-
-
-{:style="color:gray; font-size: 80%; text-align: left;"}
-† <sub>(By the way, there's a real tragic irony to her confinement in that mirror. Consider how self-conscious Pertisia has become regarding her appearance, and that former-friend Safina has no idea what Pertisia is concealing, is partially responsible for it, and even seems not to care. In this moment, Pertisia's physical isolation parallels her emotional state. Yikes!)</sub>
-
-{:style="color:gray; font-size: 80%; text-align: left;"}
-†† <sub>(In one of the coolest subversions of the game, the cat in this dungeon still functions as a save point, but with a slightly more...unsettling message.)</sub>
+![](/images/ikenfell/the-end.jpg)
 
 ---
 
