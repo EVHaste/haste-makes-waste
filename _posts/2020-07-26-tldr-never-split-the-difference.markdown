@@ -4,6 +4,7 @@ title:  "TL;DR - Never Split the Difference"
 date:   2020-10-25 05:20:00 -0400
 categories: career
 excerpt: I'm on a quest to read the founding texts of WillowTree, in part because I like learning stuff, but also because the air outside is poisonous and society is constantly two skips away from supernova.<br><br> Anyway here are my notes on Never Split the Difference, by Chris Voss. Sleep tight!
+featured_image: '/images/featured/books.jpg'
 ---
 
 I'm on a quest to read the founding texts of WillowTree, in part because I like learning stuff, but also because the air outside is poisonous and society is constantly two skips away from supernova.

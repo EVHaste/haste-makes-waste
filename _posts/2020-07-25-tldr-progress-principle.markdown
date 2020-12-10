@@ -4,6 +4,7 @@ title:  "TL;DR - The Progress Principle"
 date:   2020-10-25 05:20:00 -0400
 categories: career
 excerpt: WillowTree has a growing list of career development resources which are foundational to its core values and culture. There's usually a solid pamphlet worth of valuable information in them, but you can't sell a pamphlet so the authors keep writing books instead. <br><br>I'm on a mission to condense each one of these texts into its most salient points. I'll read them, so you don't have to. <br><br>Let's start with The Progress Principle, by Teresa Amabile and Steven Kramer.
+featured_image: '/images/featured/library.jpg'
 ---
 
 WillowTree has a growing list of career development resources which are foundational to its core values and culture. There's usually a solid pamphlet worth of valuable information in them, but you can't sell a pamphlet so the authors keep writing books instead.
