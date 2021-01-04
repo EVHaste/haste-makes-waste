@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paradise Killer: Facts Vs The Truth"
+title:  "Paradise Killer: Facts vs. the Truth"
 date:   2021-01-04 00:15:00 -0400
 categories: games
 featured_image: '/images/featured/paradise-killer-press.png'
@@ -114,7 +114,7 @@ For an IRL example of this, let's talk about **the language we use to describe r
 
 On some level, what constitutes a riot is defined by law (see [18 U.S. Code § 2102](https://uscode.house.gov/view.xhtml?path=/prelim@title18/part1/chapter102&edition=prelim)). So you would think it would be easy to consistently classify. Yet two events which both meet those criteria will find themselves labeled differently depending on the power of the aggrieved party.
 
-After generations of violent oppression, residents of Manhattan fought back against police violence and targeted anti-gay legislation following a raid of queer haven Stonewall Inn in 1969. The subsequent demonstrations were fierce, spontaneous, and yeah, violent, lasting approximately five days and making headlines in national papers. When we say that **Stonewall was a riot**, it's both a matter of fact, as well as a matter of truth for members of the queer community who wish to reclaim that narrative, or remind themselves of their own power and agency in the face of widespread discrimination. The aggrieved party, law enforcement agencies, had a vested interest in defining this way. Let us use the standards applied to Stonewall as a baseline to evaluate other events which could be considered riots.
+After generations of violent oppression, residents of Manhattan fought back against police violence and targeted anti-gay legislation following a raid of queer haven Stonewall Inn in 1969. The subsequent demonstrations were fierce, spontaneous, and yeah, violent, lasting approximately five days and making headlines in national papers. When we say that **Stonewall was a riot**, it's both a matter of fact, as well as a matter of truth for members of the queer community who wish to reclaim that narrative, or remind themselves of their own power and agency in the face of widespread discrimination. The aggrieved party, law enforcement agencies, had a vested interest in defining it this way. Let us use the standards applied to Stonewall as a baseline to evaluate other events which could be considered riots.
 
 ![](/images/paradise-killer/stone-wall.jpg)
 
