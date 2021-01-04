@@ -3,7 +3,7 @@ layout: post
 title:  "Ikenfell as an Exploration of Trauma and Healing"
 date:   2020-12-05 16:40:00 -0400
 categories: games
-featured_image: '/images/featured/ikenfell-press.jpg'
+featured_image: '/images/featured/ikenfell-press.png'
 excerpt: For the freshmen, Ikenfell is a turn-based RPG developed by Vancouver-based Happy Ray Games. It follows the adventures of "ordinary" teen Maritte, as she breaks into a magical school in search of her missing sister. Originally Kickstarted in 2016, the promise of queer Hogwarts instantly captivated many muggles still heartbroken over their own missing acceptance letters. <br><br> I'd have been satisfied with that premise alone. But it also has a surprising amount to say about trust, isolation, and healing process for post-traumatic stress.
 ---
 
