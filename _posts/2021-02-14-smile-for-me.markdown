@@ -87,7 +87,7 @@ His teenage diary entry claims that both "Mom and Dad" were responsible for his 
 
 Habit's behavior is shifting slightly as a result of his treatment; he now refers to his diary as a journal, and abbreviates his name as B. Harris. He also confesses to stealing his first alcoholic drink. However, he still shares that drink with his beloved tooth lily.
 
-By the time he leaves college, he has tried and failed to find joy in dentistry as his father wished, and has also stopped signing his name "Boris" entirely. He instead abbreviates his name as B. Habit, and appears to abandon his given name entirely. This parallels the increased androgyny of Habit's presentation as he begins to choose his own clothes, as well as his desire to distance himself from the elements of his identity which his parents have chosen for him.
+By the time he leaves college, he has tried and failed to find joy in dentistry as his father wished, and has also stopped signing his name "Boris". He instead abbreviates his name as B. Habit, and appears to abandon his given name entirely. This parallels the increased androgyny of Habit's presentation as he begins to choose his own clothes, as well as his desire to distance himself from the elements of his identity which his parents have chosen for him.
 
 Finally, there are a few resources outside of the game itself that suggest Habit identifies as a member of the LGBTQIA+ community. The Steam trading card for Kamal, his former dental assistant, includes a message which implies Habit is attracted to him:
 
