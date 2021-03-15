@@ -41,7 +41,7 @@ The accomplishments of women are substantially more likely to be attributed to "
 
 <br>
 
-# 4. Listen to the Experiences of Women
+# 4: Listen to the Experiences of Women
 
 The absence of feedback does not equate to the absence of challenge. Little barriers and bits of inertia can discourage women from speaking their truth, by communicating that no one is listening. Instead, be an agent for change by asking (not demanding) women to share their stories.
 
@@ -65,7 +65,7 @@ Conversely, if you hear someone giving a peer vague feedback, ask them for an ex
 
 <br>
 
-# 6. Ask for More Diverse Allocation
+# 6: Ask for More Diverse Allocation
 
 Take a look at your team. Could it be more diverse? Some teams end up with more viewpoints represented than others.
 

@@ -6,7 +6,7 @@ featured_image: /images/featured/about.jpg
 ---
 Hey, fam!
 
-My name is **Elizabeth Haste** (*she/her*). I will also answer to **Your Majesty**.
+My name is **Elizabeth Valentine Haste** (*she/her*). My pals call me Val, but I will also answer to **Your Majesty**.
 
 I am a queer leader, a woman in tech, a feminist, witch, anarchist, and **badass**.
 <br><br>
@@ -32,6 +32,6 @@ Also, I once ate so much spaghetti and threw up so hard, that I had an out-of-bo
 # **Want to contact me?**
 Whisper your message to the flighted bird of your choice, turn counter-clockwise thrice, and then throw that sucker as far as you can.
 
-Alternatively, [here I am on LinkedIn](https://www.linkedin.com/in/valentinerain/).[^2]
+Alternatively, [here I am on LinkedIn](https://www.linkedin.com/in/evhaste/).[^2]
 
 [^2]: I really do prefer the bird method though if you don't mind.
