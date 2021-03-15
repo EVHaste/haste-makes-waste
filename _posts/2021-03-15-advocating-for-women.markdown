@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Creating an Equitable Workplace for Women'
+title:  'Advocating for Women in the Workplace'
 date:   2021-03-15 12:00:00 -0400
 categories: feminism
 featured_image: '/images/featured/literally-a-glass-ceiling.jpg'
