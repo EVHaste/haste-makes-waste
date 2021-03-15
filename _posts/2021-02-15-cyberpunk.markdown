@@ -1,20 +1,12 @@
 ---
 layout: post
-title:  "I'm Not Desperate for Representation Anymore"
+title:  "Cyberpunk 2077 - Representation and Responsibility"
 date:   3021-02-15 15:00:00 -0400
 categories: games
 featured_image: '/images/featured/cyberpunk-press.png'
-excerpt: If an artist leans on an oppressed identity to market its game, what responsibilities must they also take on? <br><br> This article is a comprehensive dive into representation of gender-expansive identities in Cyberpunk 2077. From Claire to Chromanticore, we're going to use a queer lens to chronicle every inch of this game's history, marketing, gameplay, and release.
+excerpt: If an artist leans on an oppressed identity to market its game, what responsibilities do they take on in their representation? <br><br> This article is a comprehensive dive into representation of gender-expansive identities in Cyberpunk 2077. From Claire to Chromanticore, we're going to use a queer lens to chronicle every inch of this game's history, marketing, gameplay, and release.
 
 ---
-
-### If you're reading this, you're probably either poking around in my Github repo, or it's been like, a thousand years and I died without posting it.
-
-#### Either way, whether you're a fellow programmer or an internet archeologist from the future, let me just say: hey fam! I love you.
-
-##### See you soon!
-
-
 
 🎵 Goooooood morning Night City!
 
@@ -32,7 +24,9 @@ Because they're areas of interest for me and disproportionately affect the trans
 
 Hopefully when we're done, we'll be able to answer the question:
 
-> #### When an artist leans on an oppressed identity to market its game, what responsibilities do they have in representing them? And, critically-
+> #### When an artist leans on an oppressed identity to market its game, what responsibilities do they take on in that group's representation?
+
+And, critically:
 
 > ### Has CDPR succeeded?
 
@@ -64,12 +58,10 @@ Ugh. Give me a break.
 
 ---
 
-At one time in my life, I was starving for representation of any kind. What choice did I have? If I wanted to see a person like me on TV, my options were cross-dressing serial killer, or the tragically murdered prostitute in the opening of every episode of CSI.
+At one time in my life, I was starving for representation of any kind. What choice did I have? If I wanted to see a person like me on TV, my options were [cross-dressing serial killer](https://www.youtube.com/watch?v=qVwR4H9eNTw), or the [tragically murdered prostitute](https://www.glaad.org/publications/victims-or-villains-examining-ten-years-transgender-images-television). Either way I could be sure they would be [suffering from some unnamed mental illness](https://www.csifiles.com/content/2013/02/review-csi-crime-scene-investigation-strip-maul/).
 
-That's it, that's all you got; predator or fetish object. It rubs the lotion on the skin, or it gets erased from society again. For the longest time, this was the only way I could conceptualize my future. How could I ever transition, knowing what was going to happen to me?
+That's it, that's all you got; predator or fetish object. [It rubs the lotion on its skin, or it gets erased from society again](https://www.youtube.com/watch?v=WCSZfmbFJyQ). For the longest time, this was the only way I could conceptualize my future. How could I ever transition, knowing what was going to happen to me?
 
 But today, transgender people are more visible than they've ever been, and people are starting to see us in roles other than killer/corpse. We're senators(link). We're superheroes(chalice). We can be nurturers(Pose), friends(she-ra), and role models(dreadnought). Sometimes we get sucked into the inter-dimensional gateways between displays in IKEA(Finna). Just like everyone else.
 
-It's great that you've finally noticed my community and all, CDPR, but don't fool yourself. Being portrayed as a fetish object isn't doing me any favors. I might have thanked you for your time ten years ago, but not today.
-
-Because I'm not desperate anymore.
+It's great that you've finally noticed my community and all, CDPR, but being portrayed as a fetish object isn't doing me any favors. I might have thanked you for your time ten years ago, but I'm not desperate for representation anymore.
