@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Fireplace"
-date:   2022-05-19 12:00:00 -0400
+date:   3021-05-19 12:00:00 -0400
 categories: tabletop, MotW
 featured_image: '/images/featured/the-fireplace.jpg'
 excerpt: "There’s an old, abandoned fireplace out in the middle of woods near the old Edinbar factory.

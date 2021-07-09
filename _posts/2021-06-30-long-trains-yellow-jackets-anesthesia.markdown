@@ -153,9 +153,13 @@ This is the first Zoe Bee video I've ever watched so I can't really speak to the
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uf1c0tEGfrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/29lXsOYBaow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This show has always been a bizarre part of my self-care routine. Monday means John Oliver and chinese food. I don't make the rules, that's just how it is.
 
-This episode is on a series of related topics which were 100% new to me; specifically, the ways in which Black people are discriminated against for their hairstyles, the ways in which our white-as-default society fails to accomodate or even understand their hair, and the simultaneous othering and appropriation of Black hairstyles by white people.
+The first episode is on a series of related topics which were 100% new to me; specifically, the ways in which Black people are discriminated against for their hairstyles, the ways in which our white-as-default society fails to accomodate or even understand their hair, and the simultaneous othering and appropriation of Black hairstyles by white people.
+
+I was fortunate enough to have a history teacher in high school that was willing to teach about America's history with internment camps and exploitation of immigrants, but I still learned things in the second one. It reminded me of [this video by AJ+](https://www.youtube.com/watch?v=PrDbvSSbxk8) on the origins of the pejorative "model minority".
 
 ---
 
