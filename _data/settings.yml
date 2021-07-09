@@ -55,6 +55,7 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/evhaste/'
+  steam_url: 'https://steamcommunity.com/id/evhaste'
 
 color_settings:
   background_color: '#ffffff'

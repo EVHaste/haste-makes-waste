@@ -1,20 +1,22 @@
 ---
 layout: post
 title:  "Welcome* to Night City"
-date:   3021-04-05 15:00:00 -0400
+date:   3021-05-19 15:00:00 -0400
 categories: games
 featured_image: '/images/featured/cyberpunk-press.png'
-excerpt: From the moment CD Projekt Red began using transgender bodies to sell its newest product, I have been utterly transfixed. My fingers were crossed that I'd find a respectful place in its world. And if you squint, you can almost see where one would have gone.
+excerpt: From the moment CD Projekt Red began using transgender bodies to sell its newest product, I have been utterly transfixed. My fingers were crossed that I'd find a respectful place in its world. <br></br>And if you squint, you can almost see where one would have gone.
 
 ---
 
-From the moment CD Projekt Red began using transgender bodies to sell its newest product, I have been utterly transfixed. My fingers were crossed that I'd find a respectful place in its world. And if you squint, you can almost see where one would have gone.
+From the moment CD Projekt Red began using transgender bodies to sell its newest product, I have been utterly transfixed. My fingers were crossed that I'd find a respectful place in its world.
+
+And if you squint, you can almost see where one would have gone.
 
 ### This article is a comprehensive dive into representation of gender-expansive identities in Cyberpunk 2077.
 
 From Claire to Chromanticore, we're going to use a queer lens to chronicle every inch of this game's history, marketing, gameplay, and release. [^1]
 
-[^1]: I'm not interested in the bugs, missing features, or performance controversies. There are plenty of reviews and articles about those things already. I'm publishing this almost four months after release because I wanted to really take my time with it, and do my research.
+[^1]: I'm not interested in the bugs, missing features, or performance controversies. There are plenty of reviews and articles about those things already. I'm publishing this so long after release because I wanted to really take my time with it, and do my research.
 
 Because they're areas of interest for me and disproportionately affect the trans community, we'll also talk about its handling of mental health, suicide, and sex work. It goes without saying that **I will be thoroughly spoiling this game from this point forward**.
 
