@@ -15,6 +15,7 @@ Also, I once ate so much spaghetti and threw up so hard, that I had an out-of-bo
 
 <sub><sub>That is a true story.</sub></sub>
 
+![](images\featured\evhaste-resume.pdf)
 
 ---
 

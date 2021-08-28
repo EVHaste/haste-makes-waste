@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Fireplace"
-date:   3021-05-19 12:00:00 -0400
+date:   2021-08-04 12:00:00 -0400
 categories: tabletop, MotW
 featured_image: '/images/featured/the-fireplace.jpg'
 excerpt: "There’s an old, abandoned fireplace out in the middle of woods near the old Edinbar factory.
@@ -11,7 +11,7 @@ Whatever you do, never light it alone. If you’re lucky, nothing will happen. N
 ---
 ---
 
-*[Monster of the Week](https://www.evilhat.com/home/monster-of-the-week/) is a tabletop RPG in the style of shows like Buffy, Charmed, or Supernatural. What follows are the (mis)adventures of my friends in a campaign which I DM.*
+*[Monster of the Week](https://www.evilhat.com/home/monster-of-the-week/) is a tabletop RPG in the style of shows like Buffy, Charmed, or Supernatural. What follows are the (mis)adventures of my friends in a campaign which I DM.*[^1]
 
 ---
 
@@ -51,7 +51,7 @@ For as long as anyone has known Sean Bennett, Crenshaw High’s chess club star,
 
 But now, he’s missed **three**. His seat is cold in the front row.
 
-Officer Ray, the school’s resource officer, has been pulling Sean's friends into the office since yesterday. *When did you last seen him? How were things at home? Do you know if he was into drugs?* His classmates have been swapping questions they’ve been asked, speculating wildly.
+Officer Wright, the school’s resource officer, has been pulling Sean's friends into the office since yesterday. *When did you last seen him? How were things at home? Do you know if he was into drugs?* His classmates have been swapping questions they’ve been asked, speculating wildly.
 
 Today the posters went up. **MISSING**.
 
@@ -65,7 +65,7 @@ Four students, presently in detention, will find themselves wrapped up in this m
 
 We'll start with the usual suspects.
 
-It is, after all, no surprise that **Heather Wright** (*the Crooked*) is here. Detention is practically her home. Whatever she called Ms. Bree today will never reach her permanent record; it's already stuffed full of other petty crimes. Bless Officer Ray's heart, he does try to reel his daughter in, but you can never truly tame a rebel.
+It is, after all, no surprise that **Heather Wright** (*the Crooked*) is here. Detention is practically her home. Whatever she called Ms. Bree today will never reach her permanent record; it's already stuffed full of other petty crimes. Bless Officer Wright's heart, he does try to reel his daughter in, but you can never truly tame a rebel.
 
 
 The staff have long since learned not to bother assigning Heather lines, else she fill the chalkboards with obscenities, so that honor belongs to **McKenzie "Mack" Harris** (*the Searcher*). Her hand is beginning to cramp.
@@ -80,7 +80,6 @@ Mack had tried to argue that printing fliers for her amateur cryptid-tracking ra
 
 **Tiffany Thomas** (*the Wronged*), cheerleader for the Crenshaw Cougars, plucks one of those fliers from Mack's bag. You'd be forgiven for assuming she intends to bully her for it, but actually they know each other pretty well. They've shared a grief counseling group ever since her sister, Tera, vanished without a trace a year ago. They know, personally, the kinds of creatures that lurk in the shadows of Sienna, even if nobody else will believe them. Their loss binds them together.
 
+### To be continued...
 
-
-
-![](/images/monster-of-the-week/panels.jpg)
+[^1]:I've been crazy busy with work, and we play in bursts, so I'm going to be updating this as I find time to play.
