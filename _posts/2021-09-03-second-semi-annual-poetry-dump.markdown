@@ -8,7 +8,7 @@ excerpt: 'As is becoming tradition, here is a pile of poetry born of sleep depri
 
 ---
 
-As is becoming tradition, here is a pile of poetry born of sleep deprived delirium, Slytherin Edition™. 🐍
+As is becoming tradition, here is a pile of poetry born of sleep deprived delirium, Slytherin Edition.
 
 Batteries not included.
 
