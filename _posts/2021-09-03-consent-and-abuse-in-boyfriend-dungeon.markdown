@@ -3,7 +3,7 @@ layout: post
 title:  "Consent and Abuse in Boyfriend Dungeon"
 date:   2021-09-25 9:00:00 -0400
 categories: games
-featured_image: 'images\featured\boyfriend-dungeon.png'
+featured_image: '/images/featured/boyfriend-dungeon.png'
 excerpt: 'In this article, we’ll discuss how Boyfriend Dungeon contrasts via gameplay both healthy and unhealthy consent models.<br><br> We’ll also break down the anatomy of abuse by isolating specific emotional manipulation techniques that are employed by its antagonist, and explore the unique potential of dating sims as learning tools, which empower survivors of abuse to safely re-engage in intimate relationships.'
 
 ---
