@@ -310,8 +310,6 @@ In real life, a failed experiment can be dangerous, but games allow you to dip y
 
 I probably wouldn't recommend the average dating sim for the purpose of relationship practice, because of the way they inadvertently disincentivize player-motivated displays of agency and consent. But **Boyfriend Dungeon proves it's possible to model something greater by tweaking the formula a little**.
 
-I really wish I had something like this when I was younger.
-
 ---
 
 # For Lovers and Fighters
@@ -359,4 +357,4 @@ _Stay safe, fam!_
 
 [^7]: Something I love about this early date is that it never works out, no matter what options you choose. Because in real life, it's okay not to be compatible with someone. It doesn't have to be a reflection of your character.
 
-[^8]: To the folks at Kitfox, if this somehow makes its way to you: thanks for making this game. It’s really important to me.
+[^8]: To the folks at Kitfox, if this somehow makes its way to you: thanks for making this game. It’s really important to me, and I wish I had something like it when I was younger.
