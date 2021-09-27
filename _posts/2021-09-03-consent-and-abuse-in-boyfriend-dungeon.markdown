@@ -90,7 +90,7 @@ Next we get to see Valeria navigate dating safety. Your first three dates are pl
   <img src="/images/boyfriend-dungeon/dagger-6.jpg">
 </div>
 
-However, when Jake continues to tail you on subsequent dates, Valeria becomes angry with him. She's okay with accepting help, **as long as she asked for it**. Jake later confirms this, noting that Valeria hates when people are protective or processive over her. **There's a difference between adjusting a boundary, and removing it entirely**. Jake's behavior, though well-intentioned, diminishes Valeria's agency, which she will not tolerate. They later come to an understanding about this and re-establish their friendship largely out of view of the player character. After all, your input is really not needed. This is about *Valeria's* needs.
+However, when Jake continues to tail you on subsequent dates, Valeria becomes angry with him. She's okay with accepting help, **as long as she asked for it**. Jake later confirms this, noting that Valeria hates when people are protective or possessive over her. **There's a difference between adjusting a boundary, and removing it entirely**. Jake's behavior, though well-intentioned, diminishes Valeria's agency, which she will not tolerate. They later come to an understanding about this and re-establish their friendship largely out of view of the player character. After all, your input is really not needed. This is about *Valeria's* needs.
 
 #### Finally, Valeria is very careful about testing your response to aspects of her lifestyle before letting you in.
 
@@ -237,7 +237,7 @@ New members of a given community (such as the player character) are therefore es
 
 ### When someone encourages you to meet fewer people or be exposed to fewer perspectives, that's a red flag that they're trying to control you.
 
-Fortunately, by this point in the game you're already assembled a support network of people who genuinely care about your well being. You can talk to them about your discomfort, and they'll believe you, sometimes chiming in with validating anecdotes of their own. Without their care and wisdom, this game might have ended very differently, and **real-life abusers know that, too**.
+Fortunately, by this point in the game you've already assembled a support network of people who genuinely care about your well being. You can talk to them about your discomfort, and they'll believe you, sometimes chiming in with validating anecdotes of their own. Without their care and wisdom, this game might have ended very differently, and **real-life abusers know that, too**.
 
 Ultimately Eric's motivation in Boyfriend Dungeon is to mold you into the ideal partner with or without your consent. His earlier gift of metal ingots is even symbolic of this, as the player later learns that he has been stealing pieces of different weapon-people (many of whom have also rejected him) in order to forge them into someone more obedient. As a suitor, he views you as an object that he can shape into something that suits _him_.
 
