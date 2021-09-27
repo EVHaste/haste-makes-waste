@@ -102,7 +102,9 @@ In the end, **Valeria's story is about maintaining her own control**. She establ
 
 #### And this is just a close reading of *one* set of dates.
 
-**Every character explores questions of agency and consent** in some way, using their own communication styles. Nonbinary college student Sawyer asks directly if your hangout invitation is a date, and is **unambiguous about communicating their desires** in the subsequent relationship. Meanwhile, Pop star Seven, who struggles with depression, will actually **decline the player's offer of sexual intimacy** citing a need to take things slow due to his condition. It takes about five dates before you can pick up transforming cat Pocket, and a few of those dates involve cameos from other partners remarking on and respecting **the inherent independence of cats**.
+<!-- Leaving this on the cutting room floor for pacing reasons:
+
+Nonbinary college student Sawyer asks directly if your hangout invitation is a date, and is **unambiguous about communicating their desires** in the subsequent relationship. Meanwhile, Pop star Seven, who struggles with depression, will actually **decline the player's offer of sexual intimacy** citing a need to take things slow due to his condition. It takes about five dates before you can pick up transforming cat Pocket, and a few of those dates involve cameos from other partners remarking on and respecting **the inherent independence of cats**.
 
 To an extent *even the player character* has an arc about defining boundaries, and exploring different styles of intimacy while maintaining romantic and sexual agency. In the game's second (and currently final) dunj, the monsters take the form of groping hands, blown kisses, and martini glasses containing nondescript liquid. The lyrics of this dunj's theme, "[Diamonds](https://www.musixmatch.com/lyrics/Marskye/Diamonds-Madeleine-McQueen)", repeat and emphasize a need to "loosen up a little", and to "lose a little control". The song starkly contrasts against the physical environment and its monsters, and is indicative of the player character's conflicting desires to both keep their bodies safe, and leave their comfort zones romantically.
 
@@ -111,7 +113,7 @@ To an extent *even the player character* has an arc about defining boundaries, a
 
 My favorite ending to this dungeon involves playing a mini-romance with the physical manifestation of your own heart, whom you can friendzone and is **subsequently defeated by the sheer power of your assertiveness**.
 
-All this is to say, in a game whose plot revolves around the intent of an abuser to take control away from the player, every protagonist demonstrates empathy and responsiveness to the needs of others.
+All this is to say, in--> In a game whose plot revolves around the intent of an abuser to take control away from the player, **every protagonist explores questions of agency and consent** in some way by.
 
 I hope I've convinced you at this point that the game is being deliberate and instructive by placing positive role models in front of you, and is actively asking you to both observe and assert boundaries. **Because now we have to talk about Eric, and he's a piece of shit**.
 
@@ -163,13 +165,15 @@ Fast forward to the game's midpoint, and Eric leaves another gift on your doorst
 
 Eric's gift is a set of metal ingots. Remember how well his business is supposedly doing? **He's a blacksmith**. Again, this gift is about him. His attempt to feign ignorance is similarly half-hearted; he wants you to know that he has done this, and that he's not sorry for ignoring your boundaries. In fact, _you're welcome, Elizabeth_. 💢
 
-Abusers gain control by eroding personal boundaries, and building dependency in its place. Eric is in this scene **slowly moving the goalpost on your gift-receiving boundaries**. If the player were to accept this interaction, it would be understood that they still don't like gifts, _but its okay when Eric does it because he's just that nice_. In this way, even an assertive person can be worn down over time by incremental violations of one's agency, each setting the groundwork for the next. I have experienced this firsthand.
+Abusers gain control by eroding personal boundaries, and building dependency in its place. Eric is in this scene **slowly moving the goalpost on your gift-receiving boundaries**. If the player were to accept this interaction, it would be understood that they still don't like gifts, _but its okay when Eric does it because he's just that nice_. In this way, even an assertive person can be worn down over time by incremental violations of one's agency, each setting the groundwork for the next.
+
+<!-- Cutting this for pacing reasons: I have experienced this firsthand.
 
 #### Storytime: I once had a partner who was personally offended by my preference to brush my teeth with the bathroom door closed.
 
 I grew up in a home where I didn't often have that privacy. Keeping the door closed helped me feel safe and relaxed. But my partner reasoned that, if I truly loved her, I wouldn't need to do that. She made it her mission to apply guilt every night until I relented, and this pattern repeated over many years with bigger and bigger things, until all of my self-care rituals were considered a public space. Needless to say, that relationship wasn't emotionally safe.
 
-**What I'm saying is, these ingots are my toothbrush.** Which is a sentence that makes perfect sense, I got it on my first try and so there will be no need for additional critique at this time, no sir.
+**What I'm saying is, these ingots are my toothbrush.** Which is a sentence that makes perfect sense, I got it on my first try and so there will be no need for additional critique at this time, no sir. -->
 
 A little later you have the option to explicitly _beg_ Eric to stop sending you obsessive texts:
 
@@ -246,9 +250,9 @@ Ultimately Eric's motivation in Boyfriend Dungeon is to mold you into the ideal 
 {:style="color:gray; font-size: 80%; text-align: center;"}
 It's a little on the nose, but I do know people that think like this.
 
-Now maybe you're still not convinced that there's anything particularly special about nuanced portrayals of abuse in video games.
+<!--Cut for pacing: Now maybe you're still not convinced that there's anything particularly special about nuanced portrayals of abuse in video games.
 
-But imagine you're twenty, and you've never seen this before. Or worse, you've *only* ever seen this kind of relationship, and it's your normal. There's immense value in being able to experience situations like this from a safe distance, surrounded by people who are physically programmed _not to let this shit slide_. It creates an expectation in the player that they may not have previously had space to consider. I would argue that Boyfriend Dungeon is inherently educational and practically useful in a way that few games are. And I really wish I had something like this when I was younger.
+But imagine you're twenty, and you've never seen this before. Or worse, you've *only* ever seen this kind of relationship, and it's your normal. There's immense value in being able to experience situations like this from a safe distance, surrounded by people who are physically programmed _not to let this shit slide_. It creates an expectation in the player that they may not have previously had space to consider. I would argue that Boyfriend Dungeon is inherently educational and practically useful in a way that few games are. And I really wish I had something like this when I was younger. -->
 
 #### I've absolutely dated an Eric. Hell, he even kind of *looked* like Eric.
 
@@ -294,11 +298,19 @@ One last scene that really stuck with me; early on you're given a few options on
 
 These examples simply would not be possible if the player needed to weigh their own personal comfort over the ability to progress in the game. By eliminating the genre's primary win state, they are given space to be introspective and question why they are making certain choices (as opposed to, "I'm following the perfect ending guide, duh!"). The player is freed to learn about _themselves_.
 
+#### Now maybe you're still not convinced that there's anything particularly valuable about nuanced portrayals of abuse in video games.
+
+But imagine you're twenty, and you've never seen this before. Or worse, you've *only* ever seen this kind of relationship, and it's your normal. It can be immensely empowering to experience situations like this from a safe distance, surrounded by people who are physically programmed _not to let this shit slide_. It creates an expectation in the player that they may not have previously had space to consider. I would argue that Boyfriend Dungeon is inherently educational and practically useful in a way that few games are.
+
 ##### The best defense against the Erics of the world is to educate yourself on their playbook, to understand your own needs, and to surround yourself with loved ones who care about your agency and emotional health.
 
-And yet, for a survivor of domestic violence, these very things can be incredibly difficult to reach for. When your trust has already been violated, choosing to open up again is hard. In real life, a failed experiment can be dangerous, but games allow you to dip your toes into unfamiliar situations both from a distance and at your own pace. One scene could take five minutes today, and another five tomorrow. **The characters are infinitely patient**. They're not going anywhere, and if you slip up, there are no real life consequences.
+And yet, for a survivor of domestic violence, these very things can be incredibly difficult to reach for. When your trust has already been violated, choosing to open up again is hard.
+
+In real life, a failed experiment can be dangerous, but games allow you to dip your toes into unfamiliar situations both from a distance and at your own pace. One scene could take five minutes today, and another five tomorrow. **The characters are infinitely patient**. They're not going anywhere, and if you slip up, there are no real life consequences.
 
 I probably wouldn't recommend the average dating sim for the purpose of relationship practice, because of the way they inadvertently disincentivize player-motivated displays of agency and consent. But **Boyfriend Dungeon proves it's possible to model something greater by tweaking the formula a little**.
+
+I really wish I had something like this when I was younger.
 
 ---
 
