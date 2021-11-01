@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "That Time I Embarrassed Myself in Gran Turismo"
-date:   2021-09-25 9:00:00 -0400
+date:   2021-11-01 9:00:00 -0400
 categories: games
 featured_image: '/images/featured/gran-turismo.jpg'
 excerpt: 'A goofy anecdote about giving constructive criticism to new hobbyists.'
