@@ -21,7 +21,7 @@ There was just one problem: every time I reached the first turn in the demo cour
 
 The AI, on the other hand, never seemed to have any trouble with it. I’d watch them take that curve nice and easy, every time, without hitting the curb or anything! I thought this was really unfair.
 
-After doing this for a while, I asked my dad why I couldn’t turn as tightly as the other cars could. Watch me, I demanded, tell me what I’m doing wrong. After all, he drove cars for a living.
+After doing this for a while, I asked my dad why I couldn’t turn as tightly as the other cars could. *Watch me*, I demanded, *tell me what I’m doing wrong*. After all, he drove cars for a living.
 
 The light turned green, and I floored it. When I reached that first curve, I turned as hard as I could, but kissed the side of the track like always.
 
@@ -45,7 +45,7 @@ I didn’t understand how to slow down or drift. I was taking every turn at a hu
 
 ![](/images/gran-turismo/sanic.gif)
 
-I didn’t realize this game was simulating real-world physics. To me, the purpose of the X button was not to accelerate, but to allow movement to occur. It was the button you pressed to be able to play the game. I also didn’t understand why anyone would want to slow down in a game about racing, or in what situations slowing down could be really useful.
+I didn’t realize this game was simulating real-world physics. To me, the purpose of the X button was not to accelerate, but to make the car "go" by magic ™. It was the button you pressed to be able to play the game. I also didn’t understand why anyone would want to slow down in a game about racing, or in what situations slowing down could be really useful.
 
 And look, I’ll spoil the ending, I did eventually figure it out. But I think that’s less interesting than the lesson I can learn from it now, some twenty years later, as a case study on the pitfalls of mentorship in the absence of empathy.
 
@@ -86,4 +86,4 @@ It’s kind of cool to find a lesson buried in such an obscure memory.[^3] It al
 
 [^2]: My parents sucked.
 
-[^3]: I probably never would have thought about this again, were it not for a late-night drunk-texting session with a Forza streamer that I met on a dating app over the weekend. The world we live in is bizarre, and I love that about it. Thanks, stranger!
+[^3]: I probably never would have thought about this again, were it not for a late-night drunk-texting session with a Forza streamer that I briefly matched with this weekend. The world we live in is bizarre, and I love that about it. Thanks, stranger!
