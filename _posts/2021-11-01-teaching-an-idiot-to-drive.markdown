@@ -80,10 +80,8 @@ Then start there.
 
 All this is to say, it can be difficult to imagine not knowing something that you are already quite familiar with. The ability to identify fundamental knowledge, or when you’re taking that knowledge for granted, is key to providing mentorship that is practically useful, and not just correct in retrospect. If it’s not clicking, it doesn’t mean the person is stupid. It may just be that you started in the wrong place.
 
-It’s kind of cool to find a lesson buried in such an obscure memory.[^3] It also means that technically it took me over two decades to learn this lesson. Which, given my driving ability, is pretty on brand.
+It’s kind of cool to find a lesson buried in such an obscure memory. It also means that technically it took me over two decades to learn this lesson. Which, given my driving ability, is pretty on brand.
 
 [^1]: This might have been the first recorded instance of Val liking something ironically. So even at this early age, I was doomed to be a hipster.
 
 [^2]: My parents sucked.
-
-[^3]: I probably never would have thought about this again, were it not for a late-night drunk-texting session with a Forza streamer that I briefly matched with this weekend. The world we live in is bizarre, and I love that about it. Thanks, stranger!
