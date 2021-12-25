@@ -30,7 +30,7 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
+  twitter_url: 'https://twitter.com/EVHaste'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
@@ -55,7 +55,6 @@ social_settings:
   spotify_url: 'https://open.spotify.com/user/aasgygak6u0mlm3g2pjoa50xq'
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/evhaste/'
-  steam_url: 'https://steamcommunity.com/id/evhaste'
 
 color_settings:
   background_color: '#ffffff'
