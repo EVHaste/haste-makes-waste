@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Theme Parks, Musicals, & Silent Protagonists"
-date:   2031-12-21 1:00:00 -0400
+date:   2023-01-01 0:00:00 -0400
 categories: mischief managed
 featured_image: '/images/mischief-managed/crosscode.jpg'
 excerpt: 'Text here.'
