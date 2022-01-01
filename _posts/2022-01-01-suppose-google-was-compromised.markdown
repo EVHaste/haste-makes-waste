@@ -83,7 +83,7 @@ McPersonface is an ex-partner who is physically and emotionally violent. As a so
 
 ## Attack trees
 
-This exercise was useful to paint a picture of our adversary, but it could still use some work. I don't mean by beautiful crayon art; that's perfect. I mean that the attacker's goals are too nonspecific. We understand their motivation a bit better now, but "making unwanted contact" could mean a lot of different things and be accomplished in many ways. So, as a next step, let's enumerate the possible negative outcomes. What are we afraid of, specifically?  The attacker could:
+This exercise was useful to paint a picture of our adversary, but it could still use some work. I don't mean my beautiful crayon art; that's perfect. I mean that the attacker's goals are too nonspecific. We understand their motivation a bit better now, but "making unwanted contact" could mean a lot of different things and be accomplished in many ways. So, as a next step, let's enumerate the possible negative outcomes. What are we afraid of, specifically?  The attacker could:
 
  * Gain physical entry to our new home for purposes of violence or intimidation.
  * Follow us somewhere else.
@@ -119,7 +119,7 @@ All this is to demonstrate that **your attack surface is more broad than “ways
 
 ## Describing Threats to Others
 
-This is the point where our peers can really start to provide valuable feedback, and it's going to become useful pretty quickly to have some shorthand to describe groups of similar problems. One solution could help mitigate multiple branches of the tree, and all be described using the same shorthand.
+This is the point where our peers can really start to provide valuable feedback, and it's going to become useful pretty quickly to have some shorthand to describe groups of similar problems. One solution could help mitigate multiple branches of the tree, and multiple risks could be described using the same shorthand.
 
 In software development, there are a number of industry-standard threat modeling frameworks that you can use to describe types of threats. One of the most famous is the **STRIDE model**, which is an acronym coined at Microsoft in the early 90’s that [broadly categorizes types of security vulnerabilities that can be mitigated early in development of a system](https://adam.shostack.org/microsoft/The-Threats-To-Our-Products.docx). Those categories include:
 
@@ -167,7 +167,7 @@ If you’re working on a complex system or with a larger group, you’ll want to
 
 There are a lot of different ways to classify those things, depending on your industry and how qualitative you need those measurements to be. You could use something like the **DREAD model** (Damage, Reproducibility, Exploitability, Affected Users, Discoverability), or one of the less subjective models provided by [OWASP](https://owasp.org/www-community/Threat_Modeling_Process). Personally, my background is in healthcare software, so I’m going to use a lazy version of an industry-standard risk matrix which we might employ to evaluate dangers to patients in a clinical setting. **If it’s good enough for the FDA, it’s good enough for me.**
 
-I’ll provide just a couple to give you an idea, otherwise this article will end up a novella, but there could be dozens of these normally!
+I’ll provide just a couple to give you an idea, otherwise this article will end up a novella, [^5] but there could be dozens of these normally!
 
 
 |ID & Type | Description | Harm | Severity | Likelihood
@@ -352,7 +352,7 @@ Finally, [no company is ever going to be transparent about this unless they are 
 
 Okay, next step, email. So, so many accounts that we use are tied to our email address or phone. Securing this was crucial. I had previously been using Gmail, and for reasons we just discussed I was eager to migrate. I opted for creating an entirely new email address, and would generally recommend this if you find yourself in my situation.
 
-If you have the means, I recommend selecting a paid service like [Fastmail](https://www.fastmail.com/) or [Protonmail](https://protonmail.com/). t's practically a cliche at this point, but if you aren't paying for the product, you're the product. And if you're reading this in the future, do a little homework on your clean network to see which services are reputable these days. With my luck I'll recommend something and they'll have a scandal in like a year.
+If you have the means, I recommend selecting a paid service like [Fastmail](https://www.fastmail.com/) or [Protonmail](https://protonmail.com/). It's practically a cliche at this point, but if you aren't paying for the product, you're the product. And if you're reading this in the future, do a little homework on your clean network to see which services are reputable these days. With my luck I'll recommend something and they'll have a scandal in like a year.
 
 I broke the golden rule of armchair infosec at this point, and wrote that new password down on a piece of paper. If you've played Deus Ex, you're probably really confused why I would choose to do something like that, but given my device was compromised and I had ticked the "remember me" box for my password manager (never do that), I had to assume that one was shot. The one piece of technology my attacker could not gain unauthorized access to in that moment was a sticky note.
 
@@ -366,7 +366,7 @@ Again working off of the assumption that my password manager was compromised, I 
 
 Honestly this was kinda fun, like spring cleaning. I wrote "BOX OF SHAME" in thick sharpie on a cardboard box, and filled it with every Google device, everything he'd ever purchased, that I didn't understand how to use, or that had been added to my home without my consent.
 
-In the end, it contained several Google Homes, a Chromecast, a modem (for a network he set up!), game consoles, and a few other items which contained (or literally were) microphones or cameras. I left two things out; a Google router, and a computer he had built. I needed them for a few more hours to complete *the purge*, but I did make an appointment with my ISP to terminate my old account and set up a new one. [^4]
+In the end, it contained several Google Homes, a Chromecast, a Google Router, a modem (for a network he set up!), game consoles, a computer he had built for me, and a few other items which contained (or literally were) microphones or cameras. I set two of them aside for now though; the router, and the desktop. I needed them for a few more hours to complete *the purge*, but I did make an appointment with my ISP to terminate my old account so I could set up a brand new network as soon as possible. [^4]
 
 #### Now the tedious bit. I sat down with my two devices; a "compromised" one from which I would access all my old stuff, and my nice clean one. And let me tell you, this step takes a LONG time.
 
@@ -379,7 +379,7 @@ Starting with my old email addresses, I'd run through the following steps.
 3. Force logout currently logged in devices on the account.
 4. Un-link any current MFA tools, especially when it referenced my old phone number.
 5. Change the password to a temporary one I had generated on the "clean" device.
-6. Change all recovery questions to gibberish ones that don't even correspond to my real life, which I stored in the "clean" password manager.
+6. Change all recovery questions to gibberish ones that don't even correspond to my real life, which I stored in the "clean" password manager. (This makes it harder to socially engineer access or brute force recovery options, since we'd lived together)
 7. Set up MFA on the account, using my new device.
 8. Change the password again in case the attacker happened to be monitoring at that exact moment, and store in the clean password manager.
 
@@ -395,7 +395,7 @@ Some accounts didn't have deletion options either, if you can believe it, so I w
 
 ### One of my lovely dispensers of infosec wisdom recommended you never fully delete an email account, but instead set up forwarding to your new address.
 
-I decided not to follow this advice and did end up losing access to a couple of accounts I wish I hadn't, so, um, just highlighting to listen to my support network on this one. Oops!
+I did mess this one up and ended up losing access to a couple of accounts I wish I hadn't, so, um, just highlighting to listen to my support network on this one. Oops!
 
 When I was done with this process, I reformatted the old desktop, and added it along with the modem and router to the shame pile for DEMOLITION. You should always use care when disposing of things with built-in storage, like [game consoles](https://www.theverge.com/2012/3/30/2913726/used-xbox-credit-card-information-hack-research), your [PC](https://www.engadget.com/2018-07-31-how-to-recover-deleted-files.html), or other things that may have contained credit card numbers in the past, as even “deleted” data is surprisingly easy to recover. Most delete functions are misnomers. They actually just remove the reference which points to the data; it remains intact until that sector of storage is needed again and is overwritten. This is more of a best practice than a risk we need to mitigate, our attacker probably isn’t going to fly across the country to roll around in our trash.
 
@@ -403,7 +403,7 @@ I set up my new network myself, so I knew how it worked, using a one of [Ubiquit
 
 One thing that I haven't really mentioned so far was the need to switch browsers. I'd been using Google Chrome for a while, and ended up moving to a combination of [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) and [Tor](https://www.torproject.org/). A lot of alternatives to Chrome are still based on Chromium, so keep an eye out for that and avoid them just to be on the safe side.
 
-I made sure not to install any unnecessary apps on my new phone, to minimize pipelines my data could be in. Obviously I've replaced everything that depended on a Google service with something else, too, resecured my Apple ID, and run through extensive [privacy and security checkups](https://www.washingtonpost.com/technology/2021/11/26/ios-privacy-settings/).
+I made sure not to install any unnecessary apps on my new phone, to minimize pipelines my data could be in. Obviously I've replaced everything that depended on a Google service with something else, too, resecured my Apple ID, and ran through extensive [privacy and security checkups](https://www.washingtonpost.com/technology/2021/11/26/ios-privacy-settings/).
 
 It took a while, but eventually I built my own PC from scratch to replace the one I had tossed. Some things, I didn't replace at all, and when I absolutely had to, I took care to select services and technology at competing mega-corporations which I can be reasonably sure, for anti-trust reasons, can never be purchased by Google.
 
@@ -415,7 +415,7 @@ Now, since I'll be re-homing soon, possibly in a closer proximity to McPersonfac
 
 I did a bit of research on security camera options; which ones could be closed-circuit vs exposing my feed to the internet, and which ones could reliably be shielded from acquisition by Google. I've also done a little planning on how they could be positioned, so that I always have control over what is in the feed, and so that I can physically kill the power to them when I don't want them running. Remember, for every piece of IoT technology you add, you're increasing your attack surface area and the type of data which can be collected on you without your consent. Make sure it's worth it!
 
-I bought a nice baseball bat, and learned to box. I'm considering investing in a nice saber, and learned how to operate a stungun. Holy shit, they're loud.
+I bought a baseball bat, and learned to box. I'm considering investing in a nice saber, and learned how to operate a stungun. Holy shit, they're loud.
 
 I can verify independently with my network that where I choose to live isn't live near him or his office, to maximize space between us. I've got an agreement with every mutual friend and acquaintance that information about me is not to be shared, and have a plan for what to do in the event my home or locks are breached, or I think I'm being followed. I plan to have a frank conversation with office management if I end up relocating into an apartment, to reduce McPersonface's ability to sweet talk maintenance or utility crews. I have a backup location selected in case I want to steer clear of the whole state.
 
@@ -432,7 +432,7 @@ Now, you could make an argument that it would be a better security practice not 
 ### So, was all of this shit worth it?
 ## Absolutely.
 
-Today I am confident that every piece of technology in my house is working *for me*. It's going to require ongoing monitoring and could realistically shift at any time, but for now I feel powerful, and in control. I learned a lot, and it turns out the whole "Val stupid and can't computer" thing was a story my abuser created about me. With a bit of research and the help of some friends who cared, I was able to learn what I needed to know just fine and even established an extra baseline of infosec knowledge to help me in my career.
+Today I am confident that every piece of technology in my house is working *for me*. It's going to require ongoing monitoring and could realistically shift at any time, but for now I feel powerful, and in control. I learned a lot, and it turns out the whole "Val stupid and can't computer" thing was a story my abuser created about me with no basis in reality. With a bit of research and the help of some friends who cared, I was able to learn what I needed to know just fine and even established an extra baseline of infosec knowledge to help me in my career. I still have a lot to learn, but today I partner directly with my security teams to work on problems kind of like these!
 
 This state of inner peace is attainable, so more than anything I'd want survivors to know that you can do it, and it's not insurmountable.
 
@@ -533,3 +533,5 @@ Kelly, Heather, "Apple iOS privacy settings to change now", *The Washington Post
 [^3]: Just acknowledging that my privilege is showing here, and that this is outside the means of most folks on short notice. As an alternative, I would recommend [pre-paid, non-smart phones](https://www.walmart.com/browse/cell-phones/prepaid-phones/1105910_4527935_1072335). They're much, much cheaper, starting around 40$, and usually have pay as you go plans. You can find them in most Walmarts, Targets, Best Buys, etc.
 
 [^4]: This did confuse them a little but it helps reduce the odds of them socially engineering access back into your account if you've previously lived together. Plus Spectrum had been deadnaming me for a while so I was just kind of done with them. 🖕
+
+[^5]: Editor's note: it is in fact a novelette.
