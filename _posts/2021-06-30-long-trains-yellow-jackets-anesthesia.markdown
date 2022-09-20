@@ -2,7 +2,7 @@
 layout: post
 title:  "Long Trains, Yellow Jackets, & Anesthesia"
 date:   2021-06-30 12:00:00 -0400
-categories: mischief managed
+categories: real life
 featured_image: '/images/featured/infinity-train.jpg'
 excerpt: "These are the things that kept me company, brought me joy, or taught me something while I recovered from transition surgery this summer."
 

@@ -2,7 +2,7 @@
 title: About
 subtitle:
 description:
-featured_image: /images/featured/about.jpg
+featured_image: /images/featured/home.jpg
 ---
 Hey, fam!
 

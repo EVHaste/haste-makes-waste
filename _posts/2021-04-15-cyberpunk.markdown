@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome* to Night City"
-date:   3021-08-04 15:00:00 -0400
+date:   3022-05-01 15:00:00 -0400
 categories: games
 featured_image: '/images/featured/cyberpunk-press.png'
 excerpt: Whenever I see transgender characters included in marketing material, my fingers are  crossed that I'll find a respectful place in that world. And if you squint, you can almost see where that would have gone in Night City.
@@ -34,7 +34,7 @@ Hope you take your soy ramen spicy, choomba.
 
 # Summary
 
-Cyberpunk 2077 is a first-person shooter with light RPG elements, developed and published by Polish studio CD Project Red following the success of The Witcher trilogy. After approximately nine years in development, it was released in 2020 across six platforms.
+Cyberpunk 2077 is a first-person shooter with light RPG elements, developed and published by Polish studio CD Project Red following the success of The Witcher trilogy. After approximately nine years in development, it was released in 2020 across six platforms. [^2]
 
 Much like The Witcher before it, however, the Cyberpunk brand was not created by CDPR. The license originally premiered as a tabletop role playing system created by Mike Pondsmith in 1988. It has received four editions, with the most recent being 2020's *Cyberpunk Red.* Pondsmith himself would be brought in on a consulting basis for Cyberpunk 2077.
 
@@ -60,7 +60,7 @@ Only slightly better.
 
 # Some Notes About Launch
 
-Despite its lengthy development period, Cyberpunk 2077 is notorious for releasing in an incomplete and often downright unplayable state. The title was delayed numerous times and contains few of the open-world freedoms promised in marketing materials prior to launch. It also released against a backdrop of credible allegations against the company, detailing worker exploitation, crunch, and team burnout. [^2]
+Despite its lengthy development period, Cyberpunk 2077 is notorious for releasing in an incomplete and often downright unplayable state. The title was delayed numerous times and contains few of the open-world freedoms promised in marketing materials prior to launch. It also released against a backdrop of credible allegations against the company, detailing worker exploitation, crunch, and team burnout. [^3]
 
 While this is arguably irrelevant to the game's physical text and subtext, it would be a mistake to ignore the context under which it was developed. We can learn quite a bit about CDPR's corporate culture from the way it treats its employees, after all, and it certainly colors requests to assume positive intent for the multiple, consecutive gaffes described in this article.
 
@@ -92,4 +92,6 @@ It's great that you've finally noticed my community and all, CDPR, but being por
 
 [^1]: I'm not interested in the bugs, missing features, or performance controversies. There are plenty of reviews and articles about those things already.
 
-[^2]: The irony of a corporation mistreating employees to create a mainstream, AAA product in the cyberpunk genre is not lost on me.
+[^2]: A few of those platforms even worked!
+
+[^3]: The irony of a corporation mistreating employees to create a mainstream, AAA product in the cyberpunk genre is not lost on me.
