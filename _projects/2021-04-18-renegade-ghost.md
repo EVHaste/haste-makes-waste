@@ -2,12 +2,13 @@
 title: 'Renegade Ghost'
 subtitle: 'The continuing adventures of Sally Blaire, transgender superhero.'
 date: 2021-04-19 01:00:00
-featured_image: '/images/ghost/ghost-mask-2.png'
+featured_image: '/images/ghost/ghost-header.jpg'
 ---
 
 ### Table of Contents
 ---
-[Chapter One](https://www.evhaste.com/blog/renegade-ghost-chapter-1) - Ghost robs a pharmacy.  
+[Chapter One](https://www.evhaste.com/blog/renegade-ghost-chapter-1) - "...And that’s how Sally Blaire fucked up her first pharmacy heist."  
+
 
 <!--
 ### Season 1: Sally Blaire vs. Capitalism
