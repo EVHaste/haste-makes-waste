@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Renegade Ghost - Chapter 2"
-date:   2023-09-24 15:00:00 -0400
+date:   2024-11-24 15:00:00 -0400
 categories: writing
-featured_image: images/ghost/ghost-header.jpg
+featured_image: images/ghost/ghost_skyscraper_1.jpg
 excerpt: An experiment in serial fiction. <br></br>Sally Blaire, self-styled trickster spirit and infamous vigilante of the Cape Fear River, can't quite decide if she fights crime or commits them.
 
 ---
