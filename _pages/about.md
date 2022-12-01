@@ -4,15 +4,15 @@ subtitle:
 description:
 featured_image: /images/featured/home.jpg
 ---
-Hey, fam!
+Howdy, fam!
 
 My name is **Elizabeth Valentine Haste** (*she/her*). <!-- My pals call me Val, but I will also answer to **Your Majesty**. --> I am a queer leader, a woman in tech, a feminist, witch, anarchist, and **badass**.
 
-Hey, by the way, **are you looking for a world-class software developer?**
+Hey, by the way, **are you looking for a world-class technical project manager?**
 
 ## Good news: you found her!
 
-#### I am a *premiere* **TPM and product architect**, with over 7 years of experience. I've shipped over 23 projects to date across **iOS, watchOS, Android, backend**, and **web**. And I'm looking for my next team. **Maybe it's with you?**
+#### I am a premiere **TPM and product architect**, with over 7 years of experience. I've shipped over 23 projects to date across **iOS, watchOS, Android, backend**, and **web**. And I'm looking for my next team. **Maybe it's with you?**
 
 <div class="gallery" data-columns="3">
   <img src="/images/career/badge-7224.png" alt="A certified Scrum Product Owner badge">
@@ -39,11 +39,6 @@ And I make a mean vegetarian chili.
 #### - Dyl, Senior Front End Engineer
 {:style="color:gray; font-size: 80%; text-align: center;"}
 
-<div class="gallery" data-columns="1">
-  <img src="/images/career/self-promo-2.jpg" alt="A photo of the author alongside teammate testimonials, which reads: Val is amazing. She picks up on the tiniest of details without effort. Her commitment to inclusion and craft shine in every single thing that she touches. Her ability to resolve and refine issues is unparalleled.">
-  <img src="/images/career/self-promo-1.jpg" alt="A photo of the author alongside teammate testimonials, which reads: Val came in with so much energy and enthusiasm to help us. Her positive energy is infectious and inspiring. She is a positive guiding force for all of us.">
-</div>
-
 ## Want to see my CV?
 
 To learn more about my experience and qualifications, you can find [a copy of my resume here](https://evhaste.com/images/career/evhaste-resume-2022.pdf).
@@ -52,14 +47,11 @@ To learn more about my experience and qualifications, you can find [a copy of my
 
 # Let's Connect!
 
-If your team has a **full-time** TPM or product opening, either in **Seattle, Washington** or fully **remote**, I'd love to chat. [^1]
+If your team has a **full-time** TPM or product opening, either in **the Seattle area** or fully **remote**, I'd love to chat. [^1] I'd be especially interested in any role which heavily involves infosec, accessibility, or machine learning.
 
 You can contact me [on LinkedIn](https://www.linkedin.com/in/evhaste/), or [email me](mailto:contact@evhaste.com) directly.
 
-I'd be especially interested in any role which heavily involves infosec, accessibility, or machine learning.
-
-ttys~
-
+Looking forward to connecting~
 
 [^1]: I am not open to contract work at this time.
 
