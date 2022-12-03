@@ -165,6 +165,7 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
   width: 200vw;
   height: 40px;
   left: -20px;
+  top: 0px;
 
   filter: drop-shadow(0px 10px 10px rgba(0,0,0,0.5));
   transform: rotate(330deg);
