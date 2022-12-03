@@ -164,13 +164,12 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
   #55CDFC 80%);
   width: 200vw;
   height: 40px;
-  right: 0;
-  top: 70px;
+  left: -20px;
 
-  display: flex-direction colum;
   filter: drop-shadow(0px 10px 10px rgba(0,0,0,0.5));
   transform: rotate(330deg);
-  position: fixed;
+  transform-origin: top left;
+  position: relative;
   z-index: 11;
 }
 
@@ -186,12 +185,17 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
   width: 200vw;
   height: 40px;
-  right: 0;
-  top: 140px;
+  top: 20px;
+  left: -20px;
 
-  display: flex-direction colum;
   filter: drop-shadow(0px 10px 10px rgba(0,0,0,0.5));
   transform: rotate(330deg);
-  position: fixed;
+  transform-origin: top left;
+  position: relative;
   z-index: 12;
+}
+
+@media only screen and (min-width: 1024px) {
+  .trans-pride-flag {top: 90px}
+  .lesbian-pride-flag {top: 120px}
 }
