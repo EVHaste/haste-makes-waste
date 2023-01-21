@@ -180,17 +180,17 @@ They shrugged.
 
 "We're behind on rent."
 
-Ghost sighed, withdrew the bottle from her pocket and tossed it to them.
+Ghost sighed.
 
-"Here," she said, "Worth more than whatever you had stuffed into the bag, anyway."
+"Wait here," she said.
 
-They couldn't read the label in the dark.
+Almost fifteen minutes passed. They almost left. As they were standing, she appeared again, a wad of bills in hand. She'd plucked them from inside an ATM, though she didn't tell him that.
 
-"Is this what you were there for? Don't you need it?"
+They hesitated. Opportunities like this came with a cost.
 
-Ghost shrugged.
+"You sure about this?" they asked.
 
-"I can steal another. They'll never know I was there."
+"Don't go growing a conscience on me now," said Esper, "besides, they'll never know it was missing."
 
 As if to prove the point, she disappeared from view, and the fence creaked again.
 

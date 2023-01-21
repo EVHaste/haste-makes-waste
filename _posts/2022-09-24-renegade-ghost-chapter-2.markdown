@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Renegade Ghost - Chapter 2"
-date:   2024-11-24 15:00:00 -0400
+title:  "Renegade Esper - Chapter 2"
+date:   2023-01-20 23:00:00 -0400
 categories: writing
-featured_image: images/ghost/ghost_skyscraper_1.jpg
+featured_image: images/Esper/Esper_skyscraper_1.jpg
 excerpt: An experiment in serial fiction. <br></br>Sally Blaire, self-styled trickster spirit and infamous vigilante of the Cape Fear River, can't quite decide if she fights crime or commits them.
 
 ---
 
-![](/images/ghost/ghost-mask.png)
+![](/images/Esper/Esper-mask.png)
 
 Something you had to understand in order to be friends with Sally, is that she was chronically late to everything. She had tried her best to become less interesting and popular and in trouble all of the time, but alas, it just was not meant to be.
 
@@ -20,73 +20,71 @@ She settled as best she could into a particularly uncomfortable bus seat before 
 
 ---
 
-**[1:03 AM] G:** *so say hypothetically that I came into possession of a large supply of those seizure meds…*
+**[1:03 AM] E:** *so say hypothetically that I came into possession of a large supply of those seizure meds…*
 
-**[1:03 AM] G:** *just like woke up and wouldn’t you know it they’re here, somebody must have dropped them*
+**[1:03 AM] E:** *just like woke up and wouldn’t you know it they’re here, somebody must have dropped them*
 
-**[1:04AM] G:** *what would be the most equitable way to distribute them*
+**[1:04AM] E:** *what would be the most equitable way to distribute them*
 
 **[6:35 AM] M:** *Oh, no. What have you done this time?*
 
-**[7:02 AM] G:** *nothing you’re going to see on the morning news, that’s for sure*
+**[7:02 AM] E:** *nothing you’re going to see on the morning news, that’s for sure*
 
-**[7:06 AM] G:** *you’re googling it aren’t you*
+**[7:06 AM] E:** *you’re googling it aren’t you*
 
-**[7:06 AM] G:** *no don’t /s*
+**[7:06 AM] E:** *no don’t /s*
 
 **[7:10 AM] M:** *Okay. That’s not so bad.*
 
-**[7:10 AM] G:** *did you see the cool trick with the wall at the end?*
+**[7:10 AM] E:** *did you see the cool trick with the wall at the end?*
 
-**[7:10 AM] G:** *really proud of that*
+**[7:10 AM] E:** *really proud of that*
 
 **[7:10 AM] M:** *Yeah, that was pretty good. Sloppy de-arrest though.*
 
-**[7:11 AM] G:** *I am not accepting critical feedback at this time*
+**[7:11 AM] E:** *I am not accepting critical feedback at this time*
 
 **[8:22 AM] M:** *How much do you have?*
 
-**[8:22 AM] G:** *what?*
+**[8:22 AM] E:** *what?*
 
 **[8:22 AM] M:** *Adebloc. Hypothetically, how much would you have.*
 
-**[8:22 AM] G:** *oh, right, duh. Hold on, I’ll check*
+**[8:22 AM] E:** *oh, right, duh. Hold on, I’ll check*
 
-**[8:31 AM] G:** *napkin math says 400 or so. 15mg each? Took the open one, wasn’t full.*
+**[8:31 AM] E:** *napkin math says 400 or so. 15mg each? Took the open one, wasn’t full.*
 
 **[8:40AM] M:** *Looks like they have a short half-life. FYI, that’s about six months for one person.*
 
-**[8:42AM} G:** *🎉*
+**[8:42AM} E:** *🎉*
 
 **[8:55 AM] M:** *Alright, you free after work today?*
 
-**[8:56 AM] G:** *I dunno, I’m in pretty high demand*
+**[8:56 AM] E:** *I dunno, I’m in pretty high demand*
 
-**[8:56 AM] G:** *I guess I could pencil you in before my B&E at the Pentagon*
+**[8:56 AM] E:** *I guess I could pencil you in before my B&E at the Pentagon*
 
-**[8:56 AM] G:** *(yes)*
+**[8:56 AM] E:** *(yes)*
 
 **[9:03 AM] M:** *Cool. Then let’s get coffee, usual place. I know a couple of folks in the neighborhood who could use it. Split it in half, put it something in case we get stopped. Ditch the original packaging please.*
 
-**[9:03 AM] G:** *hell yeah!*
+**[9:03 AM] E:** *hell yeah!*
 
-**[9:04 AM] G:** *By the way, they’ve got a 10-code for us now.*
+**[9:04 AM] E:** *By the way, they’ve got a 10-code for us now.*
 
 **[9:05 AM] M:** *For us, or for you?*
 
-**[9:05 AM] G:** *not sure*
+**[9:05 AM] E:** *not sure*
 
 **[9:06 AM] M:** *Probably just you, then. I’ll bet it means “public nuisance”.*
 
-**[9:06 AM] G:** *Rude*
+**[9:06 AM] E:** *Rude*
 
 **[9:06 AM] M:** *See you later.*
 
 ---
 
 Sally decided she'd tie his shoelaces together again later this evening.
-
-
 
 She inhaled the remainder of her Cheerios, and clocked into work ten minutes late. Which was early, for her! Her peers were not pleased, but she made up for it by being (in her opinion) exceptionally talented and attractive.
 
@@ -188,7 +186,7 @@ The Cape Fear Reaper herself. Grinning from ear to ear, just like in the footage
 
 ---
 
-![](/images/ghost/sb-must-die.jpg)
+![](/images/Esper/sb-must-die.jpg)
 
 Robert Strange Park.
 
@@ -212,7 +210,7 @@ That night, in the moment of silence that followed a declaration from the Cape F
 
 He took off his right glove. He chose violence.
 
-Ghost wasn't expecting the jab, or the subsequent right hook. She phased through the third blow, tried to block the next but took the uppercut to the chin, stumbling backward and scrambling away from him.
+Esper wasn't expecting the jab, or the subsequent right hook. She phased through the third blow, tried to block the next but took the uppercut to the chin, stumbling backward and scrambling away from him.
 
 "Whoa whoa, what the fuck?" Her hands were up. "What happened to *don't jump*?"
 
@@ -224,7 +222,7 @@ His fist closed around her neck, lifting her onto the tips of her toes.
 
 Jamal knew immediately that it wasn't working. He had thought something was off when he hit her. And for a moment, they remained like that, as if frozen in time. Two fighters wondering why the other wasn't finishing it.
 
-Ghost's breathing was somewhat ragged but otherwise unimpeded. He wasn't squeezing. In fact, he just looked confused. She pushed off of him, phased out of his grasp, and over the edge of the building, where she floated. But just barely.
+Esper's breathing was somewhat ragged but otherwise unimpeded. He wasn't squeezing. In fact, he just looked confused. She pushed off of him, phased out of his grasp, and over the edge of the building, where she floated. But just barely.
 
 "Okay, I get it," she said, massaging her throat, "I know I'm not popular around here..."
 
@@ -232,9 +230,9 @@ Ghost's breathing was somewhat ragged but otherwise unimpeded. He wasn't squeezi
 
 She didn't argue. Her eyes seemed to scan something very far away.
 
-"I'm...yes. Okay? I am." Ghost teetered in the air as she spoke, liable to drop with every syllable. "I'm a monster."
+"I'm...yes. Okay? I am." Esper teetered in the air as she spoke, liable to drop with every syllable. "I'm a monster."
 
-And then she broke her cardinal rule: she took off her mask. Because in truth she wasn't Ghost right now at all, but Sally. More than anything she just needed to be Sally for a second, for someone to understand.
+And then she broke her cardinal rule: she took off her mask. Because in truth she wasn't Esper right now at all, but Sally. More than anything she just needed to be Sally for a second, for someone to understand.
 
 "I'm sick," she continued, "I've hurt so many people. And not a day goes by that I don't think about it. But I want to be better. I don't want to be that anymore."
 
@@ -250,7 +248,7 @@ Jamal shook his head in disbelief.
 
 She wasn't begging for her life. Now that Jamal knew who he was dealing with, he understood that. If she fell to her death tonight, she'd be back. What's more, she could have mulched him in a second.
 
-It was hard to square the Ghost he knew from TV with the scared, desperate girl hovering in front of him. When he looked her in the eyes (gradually drifting down and out of sight as they were), he saw someone genuinely in need of human connection. To be clear, it wasn't his responsibility to provide. But if he had been willing to stop her by force, it seemed reasonable to do it by persuasion, too. At the very least it'd be less dangerous.
+It was hard to square the Esper he knew from TV with the scared, desperate girl hovering in front of him. When he looked her in the eyes (gradually drifting down and out of sight as they were), he saw someone genuinely in need of human connection. To be clear, it wasn't his responsibility to provide. But if he had been willing to stop her by force, it seemed reasonable to do it by persuasion, too. At the very least it'd be less dangerous.
 
 "Okay."
 
@@ -270,17 +268,7 @@ They talked this way until the sun came up again, and Jamal blearily returned to
 
 ---
 
-____ tilted their head as they examined them.
-
-"Are these muppets?" they asked.
-
-"Basically."
-
-(Suddenly Sally felt old.)
-
-"Can I go play now?"
-
----
+They'd just finished distributing the medication to Jamal's neighbors.
 
 Jamal took a step and stumbled, catching himself on the bench. His shoelaces were tied in a sloppy bow.
 
@@ -290,11 +278,7 @@ Jamal took a step and stumbled, catching himself on the bench. His shoelaces wer
 
 "I know what I said," grumbled Jamal as he bent down to tie them properly again.
 
-
-
----
-
-The sun was setting as they parted at ______ street.
+The sun was setting as they parted at Third Street.
 
 "So! See you out there tonight?" asked Sally.
 
@@ -317,4 +301,4 @@ So Jamal put his headphones in and walked home alone, shuffling through his play
 *Don't come crying to me when you get killed for it*, he thought. She would, though. She always did.
 
 
-[<- Table of Contents](www.google.com) | [Next Chapter ->](www.google.com)
+[<- Table of Contents](www.google.com) |

@@ -53,9 +53,8 @@ social_settings:
   kickstarter_url: ''
   soundcloud_url: ''
   bandcamp_url: ''
+  twitch_url: 'https://www.twitch.tv/evhaste'
   linkedin_url: 'https://www.linkedin.com/in/evhaste/'
-  github_url: 'https://github.com/EVHaste'
-  spotify_url: 'https://open.spotify.com/user/aasgygak6u0mlm3g2pjoa50xq'
 
 color_settings:
   background_color: '#ffffff'
