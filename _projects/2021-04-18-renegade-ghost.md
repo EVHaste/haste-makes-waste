@@ -9,6 +9,8 @@ featured_image: '/images/ghost/ghost_skyscraper_2.png'
 ---
 [Chapter One](https://www.evhaste.com/blog/renegade-ghost-chapter-1) - "...And that’s how Sally Blaire fucked up her first pharmacy heist."  
 
+[Chapter Two](https://www.evhaste.com/blog/renegade-ghost-chapter-2) - "...He was face to face with public enemy number one. A scoundrel. An unstoppable serial killer. A bottomless well of cruelty, the violent vigilante on the lips of every reporter in the state, maybe the nation."  
+
 
 <!--
 ### Season 1: Sally Blaire vs. Capitalism

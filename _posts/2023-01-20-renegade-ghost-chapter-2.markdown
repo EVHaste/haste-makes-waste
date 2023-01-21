@@ -202,8 +202,6 @@ Sally held out a pair of plastic Pez dispensers. Yoda and Buzz Lightyear. Jamal 
 
 "And they'll get them! In fun shapes, even."
 
-
-
 ---
 
 That night, in the moment of silence that followed a declaration from the Cape Fear Reaper herself, Jamal had to make a choice. And he chose uncharacteristically. But it was the only sensible one at the time.
