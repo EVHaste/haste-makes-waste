@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Renegade Esper - Chapter 1"
+title:  "Renegade Ghost - Chapter 1"
 date:   2021-04-19 15:00:00 -0400
 categories: writing
 featured_image: images/Ghost/Ghost_skyscraper_1.jpg
@@ -8,7 +8,7 @@ excerpt: An experiment in serial fiction. <br></br>Sally Blaire, self-styled tri
 
 ---
 
-![](/images/Esper/Esper-mask.png)
+![](/images/Ghost/Ghost-mask.png)
 
 The pharmacy had been closed for hours, immaculately straightened, its doors long since locked. Only the backup lights remained on, just enough to give the camera feeds definition. They had remained diligently focused on their assigned cabinets and counter tops this and every other night, but they would not capture much of the peculiar events which were to follow.
 
@@ -184,7 +184,7 @@ Esper sighed.
 
 "Wait here," she said.
 
-Almost fifteen minutes passed. They almost left. As they were standing, she appeared again, a wad of bills in hand. She'd plucked them from inside an ATM, though she didn't tell him that.
+Almost fifteen minutes passed. They almost left. As they were standing, she appeared again, a wad of bills in hand. She'd plucked them from inside an ATM, though she didn't tell them that.
 
 They hesitated. Opportunities like this came with a cost.
 

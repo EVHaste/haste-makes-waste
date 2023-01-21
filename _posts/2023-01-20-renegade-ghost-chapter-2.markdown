@@ -8,7 +8,7 @@ excerpt: An experiment in serial fiction. <br></br>Sally Blaire, self-styled tri
 
 ---
 
-![](/images/Esper/Esper-mask.png)
+![](/images/Ghost/Ghost-mask.png)
 
 Something you had to understand in order to be friends with Sally, is that she was chronically late to everything. She had tried her best to become less interesting and popular and in trouble all of the time, but alas, it just was not meant to be.
 
