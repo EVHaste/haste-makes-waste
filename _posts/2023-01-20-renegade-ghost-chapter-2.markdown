@@ -299,4 +299,4 @@ So Jamal put his headphones in and walked home alone, shuffling through his play
 *Don't come crying to me when you get killed for it*, he thought. She would, though. She always did.
 
 
-[<- Table of Contents](www.google.com) |
+[<- Table of Contents](https://evhaste.com/project/renegade-ghost) |
