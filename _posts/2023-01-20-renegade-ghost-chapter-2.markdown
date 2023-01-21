@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Renegade Esper - Chapter 2"
+title:  "Renegade Ghost - Chapter 2"
 date:   2023-01-20 23:00:00 -0400
 categories: writing
-featured_image: images/Esper/Esper_skyscraper_1.jpg
+featured_image: images/Ghost/Ghost_skyscraper_1.jpg
 excerpt: An experiment in serial fiction. <br></br>Sally Blaire, self-styled trickster spirit and infamous vigilante of the Cape Fear River, can't quite decide if she fights crime or commits them.
 
 ---
