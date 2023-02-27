@@ -8,13 +8,20 @@ excerpt: An experiment in serial fiction. <br></br>Sally Blaire, self-styled tri
 
 ---
 
+---
+*⚠ This chapter is still in progress; you should probably come back later. I'm hoping that putting something incomplete up will shame me into completing it swiftly.*
+
+---
+
+
+
 ![](/images/Ghost/Ghost-mask.png)
 
 Something you had to understand in order to be friends with Sally, is that she was chronically late to everything. She had tried her best to become less interesting and popular and in trouble all of the time, but alas, it just was not meant to be.
 
 The next morning, she snoozed her alarm once, then twice. Eventually, she relented. Work day, places to be. Throwing yesterday’s shirt over her head, she shaved a few precious minutes off of her commute by phasing, invisible, through the elevator door and down to the first floor, popping back into sight in the parking lot. One of these days she’d get caught on a dashboard cam, if she wasn’t careful, but fortunately today was not that day.
 
-Two blocks from home, she took a quick look around before passing her hand clean into the brick wall behind the local gyro place. When she pulled it out again, she was clutching a a dirt-cheap, pre-paid flip phone in her fist. Her burner; it had just one contact.
+Two blocks from home, she took a quick look around before passing her hand clean into the brick wall behind the local gyro place. When she pulled it out again, she was clutching a dirt-cheap, pre-paid flip phone in her fist. Her burner; it had just one contact.
 
 She settled as best she could into a particularly uncomfortable bus seat before checking her messages, careful to keep the screen turned away from nosy neighbors.
 
