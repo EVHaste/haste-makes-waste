@@ -128,7 +128,7 @@ Under scrutiny, Ram would later deny that the action was technically *called* a 
 
 Ram would later privately admit in a 1:1 that another motivating factor for the restructure was that his hand-picked candidate had initially decided not to move forward with an offer if I was their direct supervisor. No specific feedback was recorded or given.
 
-Meanwhile, I had received *only* spectacular feedback in my most recent performance reviews. In fact, *I had just been promoted*. I was not certainly not on any performance improvement plan. With my ability to make contributions to the organization drastically downsized, I raised concerns to HR that my file was being papered for future termination, and offered Rune Labs my resignation while the market was still favorable.
+Meanwhile, I had received *only* spectacular feedback in my most recent performance reviews. In fact, *I had just been promoted*. I was certainly not on any performance improvement plan. With my ability to make contributions to the organization drastically downsized, I raised concerns to HR that my file was being papered for future termination, and offered Rune Labs my resignation while the market was still favorable.
 
 During the month of September, I was repeatedly reassured by senior leadership of my "critical value" to the company, and was specifically requested not to seek other employment or consider leaving Rune. I was asked to please give the restructure a chance, and given the assurance that by Natalie Cleaver, the Head of Human Resources that my termination was not being considered. They would personally see to it that my future performance evaluations were performed fairly.
 
