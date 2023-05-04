@@ -189,7 +189,7 @@ I was again explicitly asked to remain at Rune Labs and *not* to resign.
 
 I was included in the layoff despite previous guarantees this would not occur. In fact, I learned about my termination via a peer who physically called me on the phone early in the morning after hearing the announcement. I was on protected disability leave at the time, and only received official notification later via email. The email directly contradicted Ram's assertion that our runway was fine and that there was absolutely no financial need for its reduction.
 
-So I guess now I can check "laid off via email" to my bucket list.
+So I guess now I can check "laid off via email" off of my bucket list.
 
 As predicted, the layoff disproportionality targeted members of protected classes, with surgical precision. Approximately 20% of the company was laid off, and to the best of my knowledge **100% of them were members of historically marginalized groups**. Women, people of color, queer folks, and multiple people on disability and even maternity leave were specifically and disproportionately targeted. In the aftermath I could not find even one single person who did not belong to a protected class.
 
