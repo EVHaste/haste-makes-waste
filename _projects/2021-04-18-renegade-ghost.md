@@ -2,7 +2,7 @@
 title: 'Renegade Ghost'
 subtitle: 'The continuing adventures of Sally Blaire, transgender superhero.'
 date: 2021-04-19 01:00:00
-featured_image: '/images/ghost/ghost_skyscraper_2.png'
+featured_image: 'images/Ghost/ghost-mask-2.png'
 ---
 
 ### Table of Contents

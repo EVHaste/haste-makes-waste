@@ -3,7 +3,7 @@ layout: post
 title:  "Renegade Ghost - Chapter 2"
 date:   2023-01-20 23:00:00 -0400
 categories: writing
-featured_image: images/Ghost/Ghost_skyscraper_1.jpg
+featured_image: images/Ghost/ghost-mask-2.png
 excerpt: An experiment in serial fiction. <br></br>Sally Blaire, self-styled trickster spirit and infamous vigilante of the Cape Fear River, can't quite decide if she fights crime or commits them.
 
 ---
@@ -192,8 +192,6 @@ The Cape Fear Reaper herself. Grinning from ear to ear, just like in the footage
 “I’m here to *fly*.”
 
 ---
-
-![](/images/Esper/sb-must-die.jpg)
 
 Robert Strange Park.
 

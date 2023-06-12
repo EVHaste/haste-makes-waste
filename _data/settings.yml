@@ -16,6 +16,8 @@ menu_settings:
       url: '/projects/'
     - title: 'About'
       url: '/about'
+    - title: 'Hire Me! ⭐'
+      url: '/hire-me'
 #    - title: 'Contact'
 #      url: '/contact'
 
