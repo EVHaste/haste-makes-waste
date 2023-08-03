@@ -16,8 +16,10 @@ menu_settings:
       url: '/projects/'
     - title: 'About'
       url: '/about'
-    - title: 'Hire Me! ⭐'
-      url: '/hire-me'
+    - title: 'Become a Patron!⭐'
+      url: 'https://www.patreon.com/evhaste'
+#    - title: 'Hire Me! ⭐'
+#      url: '/hire-me'
 #    - title: 'Contact'
 #      url: '/contact'
 
@@ -31,6 +33,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
+  patreon_url: 'https://www.patreon.com/evhaste'
   facebook_url: ''
   mastodon_url: 'https://mastodon.social/@haste'
   twitter_url: ''
