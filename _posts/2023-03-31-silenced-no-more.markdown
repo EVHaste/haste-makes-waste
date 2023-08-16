@@ -2,7 +2,7 @@
 layout: post
 title:  "I Was Laid Off In Retaliation for Anti-Discrimination Whistleblowing"
 date:   2023-04-30 10:00:00 -0400
-categories: career
+categories: career, real life
 featured_image: '/images/featured/discrimination.jpg'
 excerpt: 'In order to protect women, gender nonconforming folks, people of color, and members of the LGBTQ+ community from suffering as my peers and I have, I feel ethically obligated to go public with my experience.<br><br>
 

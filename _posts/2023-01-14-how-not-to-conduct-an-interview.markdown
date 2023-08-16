@@ -2,7 +2,7 @@
 layout: post
 title:  "Precisely How Not to Conduct a Job Interview"
 date:   2023-01-14 23:00:00 -0400
-categories: career
+categories: career, real life
 featured_image: images/featured/everyone-disliked-that.jpg
 excerpt: Have you ever wondered how to most efficiently scare away potential talent? Our top scientists have been hard at work on this very question, and created the most dreadful job interview imaginable. While this knowledge is incredibly cursed, we here at JobCo believe that the study will accelerate future breakthroughs in the field of human rights violations.
 

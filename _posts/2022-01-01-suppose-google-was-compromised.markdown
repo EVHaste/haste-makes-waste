@@ -2,7 +2,7 @@
 layout: post
 title:  "Suppose Google was Compromised"
 date:   2022-01-01 1:00:00 -0400
-categories: mischief managed
+categories: real life
 featured_image: '/images/featured/basically-the-matrix-lol.jpg'
 excerpt: 'Threat modeling is the information security practice of anticipating and mitigating negative outcomes in physical and digital systems, most often unauthorized access, theft, and vandalism. <br> <br> I thought it would be fun to practice this skill on a novel scenario. Even better if its something apparently nobody has ever solved or published resources for, but that could really help a vulnerable population if such a resource existed.'
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Third Semi-Annual Poetry Dump"
 date:   2023-02-02 12:00:00 -0400
-categories: poetry
+categories: fiction, poetry
 featured_image: '/images/featured/witchcraft.jpg'
 excerpt: 'Inspired by the nakedly visible income inequality of downtown San Francisco.'
 

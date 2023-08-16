@@ -2,7 +2,7 @@
 layout: post
 title:  "I Will Be Free"
 date:   2023-08-15 10:00:00 -0400
-categories: career
+categories: career, real life
 featured_image: '/images/featured/seattle.jpg'
 excerpt: "I’ve wanted to take a risk like this for a long time. <br><br>I put it off because I was scared. I was told my whole life, by deeply uncurious people with small imaginations, that I’d never make it. And I believed them. That became my story. <br><br>Let's write a better one."
 

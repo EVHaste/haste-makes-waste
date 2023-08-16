@@ -2,7 +2,7 @@
 layout: post
 title:  "Short Poems"
 date:   2020-10-21 23:40:00 -0400
-categories: writing
+categories: fiction, poetry
 excerpt: It's been a long time since I've attempted to write poetry, so I thought I'd have a go at it. <br><br> As a bonus, I rediscovered what must be the last poem that I had written. I was still in high school at the time, and it is delightful. I've included it here at the end, for your enjoyment.
 featured_image: '/images/featured/text.jpg'
 ---

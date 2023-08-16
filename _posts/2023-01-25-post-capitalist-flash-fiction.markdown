@@ -2,7 +2,7 @@
 layout: post
 title:  "Dystopia 3066"
 date:   2023-01-25 23:00:00 -0400
-categories: writing
+categories: fiction
 featured_image: images/featured/text.jpg
 excerpt: As Twitter began its death spiral, I challenged myself - I would write a series of satirical, post-capitalist dystopian flash fiction, with each individual post fitting within 500 characters. It had to have some form of continuity, but each post also had to individually qualify as a story, delivering a conflict, resolution, and primary character without the need for prior context. <br><br>I think I mostly succeeded.
 ---

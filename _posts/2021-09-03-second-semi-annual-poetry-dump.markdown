@@ -2,7 +2,7 @@
 layout: post
 title:  "More Short Poems to Read in the Dark"
 date:   2021-09-03 12:00:00 -0400
-categories: poetry
+categories: fiction, poetry
 featured_image: '/images/featured/witchcraft.jpg'
 excerpt: 'As is becoming tradition, here is a pile of poetry born of sleep deprived delirium, Slytherin Edition™. 🐍 <br><br>Batteries not included.'
 
