@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Containment Procedures: AN-13"
+title:  "Containment Procedures: AN-13 (Excalibur)"
 date:   2023-08-16 03:00:00 -0400
 categories: fiction
 featured_image: '/images/department-of-what/dow-banner.jpg'
