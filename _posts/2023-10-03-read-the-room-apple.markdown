@@ -105,7 +105,7 @@ Here’s a shitty user story for you:
 
 I personally am not convinced Gestures provide anyone with any value, other than getting another foot in the door for real-time device scanning. I’m not saying the intent here is nefarious, they probably just wanted to make somebody smile. And look, the laser dance did that. I really like the laser dance, y’all.
 
-But it is not a good look to surprise people with the ways you are using their data immediately after the 2021 iCloud surveillance debacle. We aren’t exactly overflowing with trust for our tech right now.
+But it is not a good look to surprise people with the ways you are using their data immediately after the [2021 iCloud surveillance debacle](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/). We aren’t exactly overflowing with trust for our tech right now.
 
 Even if you disagree with me and think that this idea is great actually, in its current implementation, it is making people feel bad. That should be enough reason to change it.
 
