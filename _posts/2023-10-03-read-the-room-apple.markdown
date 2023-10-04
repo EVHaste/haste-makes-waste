@@ -14,6 +14,8 @@ But from a product perspective, it’s a nightmare.
 
 Gestures are frequently triggering at inappropriate times, in the best case simply ruining a solemn moment with tasteless commentary. In others, it’s creating legitimate panic and discomfort for patients in mental health care settings.
 
+I learned about the feature this weekend, purely by accident. It was simultaneously unsettling and (morbidly) funny.
+
 ## “I had to look at a lot of dead bodies.”
 
 A close friend of mine was telling me over FaceTime about a difficult civic tech project they had just launched; a tool for the CBC which scrapes the [National Centre for Missing Persons and Unidentified Remains](https://www.canadasmissing.ca/index-eng.htm) databases, combines them, and allows journalists to make matches between the two. Analysis of the data has also revealed potential biases in the ways that missing persons cases are classified, based on gender and ethnicity.
