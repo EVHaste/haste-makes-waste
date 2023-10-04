@@ -14,13 +14,9 @@ But from a product perspective, it’s a nightmare.
 
 Gestures are frequently triggering at inappropriate times, in the best case simply ruining a solemn moment with tasteless commentary. In others, it’s creating legitimate panic and discomfort for patients in mental health care settings.
 
-It never could have gone any other way.
-Let me explain.
-
-
 ## “I had to look at a lot of dead bodies.”
 
-A close friend of mine was telling me over FaceTime about a difficult civic tech project they had just launched; a tool for the CBC which scrapes the National Centre for Missing Persons and Unidentified Remains databases, combines them, and allows journalists to make matches between the two. Analysis of the data has also revealed potential biases in the ways that missing persons cases are classified, based on gender and ethnicity.
+A close friend of mine was telling me over FaceTime about a difficult civic tech project they had just launched; a tool for the CBC which scrapes the [National Centre for Missing Persons and Unidentified Remains](https://www.canadasmissing.ca/index-eng.htm) databases, combines them, and allows journalists to make matches between the two. Analysis of the data has also revealed potential biases in the ways that missing persons cases are classified, based on gender and ethnicity.
 
 It’s grim work, they were explaining, but it’s important, as the RCMP is historically either unable or unwilling to do it themselves. The mood was heavy, but I was (and am) really proud of them.
 
@@ -37,7 +33,7 @@ It turns out, my friend had counted on two fingers while talking about two parti
 
 FaceTime, which had apparently been updated between iOS 16 and 17 to scan camera inputs for its new Gesture feature, had interpreted their hand position as a peace sign, and decided what they really needed was some help celebrating.
 
-This person is sad, deploy the party immediately!
+> This person is sad, deploy the party immediately!
 
 And I mean, the mood had definitely changed, I’ll give it that. From solemn, to violated.
 
@@ -59,7 +55,7 @@ Except that didn’t work. Because that triggered the “thumbs up” gesture. T
 My hands were just folded on the desk.
 
 
-Big deal, you might be saying, so your precious little conversation got a little awkward. Nobody got hurt.
+*Big deal*, you might be saying, *so your precious little conversation got a little awkward. Nobody got hurt.*
 
 And look, I’ll confess I do enjoy a bit of gallows humor now and then. But setting this particular conversation aside for a second, there’s another group of people that is being harmed by this.
 
@@ -105,7 +101,7 @@ I will not contest that the laser dance party is delightful to look at. But in o
 
 Here’s a shitty user story for you:
 
-#### As a person with in a vulnerable mental state, I want my phone to read my camera in new ways I was neither aware of nor consented to, so that a jeering peanut gallery can invade my most private conversations with inappropriate commentary.
+#### As a person in a vulnerable mental state, I want my phone to read my camera in new ways I was neither aware of nor consented to, so that a jeering peanut gallery can invade my most private conversations with inappropriate commentary.
 
 I personally am not convinced Gestures provide anyone with any value, other than getting another foot in the door for real-time device scanning. I’m not saying the intent here is nefarious, they probably just wanted to make somebody smile. And look, the laser dance did that. I really like the laser dance, y’all.
 
