@@ -88,7 +88,7 @@ You do have to hold the sign in order for it to trigger, so in theory that shoul
 
 And I’m also super curious whether they’ve accounted for regions in which the thumbs up, peace sign, and devil horns have alternative meanings.
 
-
+[Edit: Micah had a really good question in addition to this: is the laser show a risk for people with epilepsy if triggered unexpectedly? Now I'm curious about that, too. Good thinking! ❤️]
 
 ## And Now A Word From Dr. Ian Malcolm
 
