@@ -114,9 +114,9 @@ Okay, now that I’ve had my fun roasting it, I guess I can try to be constructi
 If it were my job to salvage this thing, I guess I would suggest one or more of the following to make it feel less yucky.
 
 1. Give the users the ability to disable it, preferably after an opt-in.
-2. Or Use different gestures that are harder to accidentally trigger.
-3. Or Pair the gesture with a Siri awake word (but this makes weird permissions edge cases)
-4. Or Increase the window for holding the gesture.
+2. Or use different gestures that are harder to accidentally trigger.
+3. Or pair the gesture with a Siri awake word (but this makes weird permissions edge cases)
+4. Or increase the window for holding the gesture.
 5. Or throw out everything but the laser dance, the laser dance can stay.
 
 [^1]: I obviously can't interview and provide attribution for my own therapist, what with the whole patient-client confidentiality thing. I reached out to some other folks in the field though, and if I hear back I'll do a proper piece.
