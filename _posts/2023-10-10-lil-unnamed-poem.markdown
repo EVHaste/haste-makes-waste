@@ -10,10 +10,7 @@ excerpt: "Just one lil poem on its lonesome, this time. I feel like this one wan
 
 Late night poetry practice; I feel like this one is missing several somethings. I think it wants to be longer, and to have more variety in rhythm and rhyme scheme. Maybe just a stanza in between, or maybe after with a second verse. I'll keep thinking about it.
 
-Did you know I used to write poetry all the time in grade school? I rarely shared it, got embarassed about them and just sort of quit altogether. I'm trying to give myself permission to be rusty.
-
 ## An Unnamed Poem
-#### (I do this a lot, don't I...)
 
 Empire,
 
