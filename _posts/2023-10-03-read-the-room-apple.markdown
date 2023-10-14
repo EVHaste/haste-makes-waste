@@ -95,7 +95,9 @@ And I’m also super curious whether they’ve accounted for regions in which th
 What I want to know is, literally who asked for this?
 Who wanted this? Who does it help?
 
-If such a person exists, which I doubt, then why don’t you bring its existence to the user’s attention? Why don’t you ask for consent, first like you already do for other types of input monitoring such as Siri trigger words? Why can’t you turn it off? (because you can’t, I checked)
+If such a person exists, which I doubt, then why don’t you bring its existence to the user’s attention? Why don’t you ask for consent, first like you already do for other types of input monitoring such as Siri trigger words? ~~Why can’t you turn it off?~~ ~~(because you can’t, I checked)~~
+
+[**Update:** I found a way to turn it off! It is not in the General, Camera, or Facetime settings within the Settings app like you might expect. Instead, you have to swipe down from the top right corner of your app, where a bespoke "video reactions" bubble will be added contextually if your app uses video. *You will have to repeat this action for every individual app* which is ridiculous, but the setting does persist between uses.]
 
 It feels inherently invasive to suddenly have a new observer, or worse, a new participant, in a conversation that you were not expecting. It feels like a stranger inviting themself to your baby shower and taking a big, sloppy swig from your drink. Who are you, you don’t even go here?
 

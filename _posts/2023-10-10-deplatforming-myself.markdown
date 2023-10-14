@@ -22,7 +22,7 @@ This has me re-evaluating my relationship with The Platform, what I want out of 
 
 I’ve decided: I think I want out.
 
-The Magic Box
+## The Magic Box
 
 The first thing that you have to understand, is that you and I do not experience the same internet.
 
@@ -56,14 +56,14 @@ The modern web is constantly, endlessly hoovering up massive amounts of data abo
 
 There’s no explanation for its decisions, and you will never hold The Algorithm accountable. Its value to its owners stems from its inscrutability, and from the control it gives them over you. The asymmetry of it all is the point.
 
- Everywhere you go, your “experience” is constantly being “personalized”, just not by you. Not even for you, even though they all like to say that. When you use the internet today, you are visiting a bespoke, ephemeral snow globe which has been arranged just so, because it’s convenient for someone somewhere that you will never meet, and the instant they’re done with it they will smash it on the floor so if you ever wanted to go back to that particular snow globe, too bad, fuck you, but wait don’t go you might also like…
+Everywhere you go, your “experience” is constantly being “personalized”, just not by you. Not even for you, even though they all like to say that. When you use the internet today, you are visiting a bespoke, ephemeral snow globe which has been arranged just so, because it’s convenient for someone somewhere that you will never meet, and the instant they’re done with it they will smash it on the floor so if you ever wanted to go back to that particular snow globe, too bad, fuck you, but wait don’t go you might also like…
 
 Honestly, our concept of “the internet” as a singular entity is outdated. It always was, a little bit, just from the sheer scale of the thing, but it’s especially true now, because at even the granular level of the individual web page, there’s no telling whether we’re even looking at the same thing.
 
 Not only are you and I on different internets, our internets are not equal.
 
 
-The Dollar Bean Problem
+##The Dollar Bean Problem
 
 See, the benefit of The Algorithm to its owners is that now they have something to sell. Namely, your attention, on your behalf, and often in the form of ad space. Ads aren’t new, but this method of targeted distribution is. The owners have some data that they claim can predict your behavior, specifically, and although they will never allow this claim to be falsified, they will sell access to it. Just a peek here and there, a glimpse for brands that want something from you.
 
@@ -109,7 +109,7 @@ At some point we all became employees of a company we can’t even identify, tha
 
 Because that’s the other thing; they closed the door behind us.
 
-The Prison Cell
+## The Prison Cell
 
 The second reason that the modern internet no longer serves my needs, is its propensity to lock me in a room, before switching off the lights, and running away with my shit.
 
@@ -132,10 +132,12 @@ Gloriously enlightened Neo-liberal types will tell me that’s just the free mar
 I’m not great at coming up with pithy names for these, but do you know who is?
 
 Author Corey Doctorow observed this of the lifecycle of The Platform:
-…First, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die.
+
+#### …First, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die.
+
 He named this process enshittification, and chances are you knew that already. There’s a good reason the term has been adopted so widely, and so quickly. It’s concise, it’s accurate, and I don’t think I stand to improve upon it. In fact, at some point in the lifetime of his blog he has probably said everything I’ve said here, but better, so in the spirit of the old internet, and not locking the door behind users, here’s some traffic: if you’re enjoying this piece, then maybe you should go and read Pluralistic instead.
 
-The Nazi Bar
+## The Nazi Bar
 
 Even if  I had confidence that you and I were seeing the same thing, even if you solved the dollar bean problem, and even if platform owners weren’t blocking the fire escapes as they set the building alight, there is still one more crucial problem core to The Platform which necessitates my rethinking of my relationship to them.
 
@@ -159,7 +161,7 @@ Over time, the Platform is doomed to tolerate the extremely specific set of all 
 
 And it’s their house, their rules, remember. If you don’t like it, your only option is to leave, light an effigy to win the favor of The Invisible Hand, and choose another Platform to start over. And over. And over. And…
 
-Or, We Could Stop This Madness
+## Or, We Could Stop This Madness
 
 I think it’s time for creators to reassess our relationships to The Platform, begin to defend ourselves, and dare to imagine something better.
 
@@ -177,7 +179,7 @@ But what I can do, is clean up my own house. Bit by bit, I can cut my ties with 
 
 If enough of us did this, we could reverse the consolidation and enshittification of the modern internet organically. This could be the result of collective action, too, but honestly at this point I’m just going to start with me and see how it goes.
 
-Okay, But How?
+## Okay, But How?
 
 From now on, I’m making a point to avoid all Platforms on principle. I will resist creating accounts for any software that relies on The Algorithm to serve recommended content. I will replace each live service that I use today with open source alternatives, as soon as it is efficient and financially viable to do so. Where I must use closed source commercial tooling, I’ll opt for things I can pay for once, and chuck anything that pivots to a rent-seeking subscription model, not even because of the money, but because verifying whether or not I’ve paid my protection dues necessitates surveillance and control over my devices, which should be mine and serve me alone.
 
@@ -185,7 +187,7 @@ Since I’m already here and they’re adjacent topics, ads can blow me and so c
 
 And as an added benefit of all this, if I pull this off I’ll probably also leak a bit less of my personal data across the internet. That’d be nice.
 
-There Are Risks
+## There Are Risks
 
 For one, people might just decide not to follow me. The core value add for users of The Platform is that all your friends are already there, after all. I will almost certainly be a smaller creator, forever.
 
@@ -195,7 +197,7 @@ And anyway, the whole of the internet used to work like this, so obviously, it i
 
 Incidentally, do you know what ended up happening to StumbleUpon? They took investment capital, wiped all their user-submitted content in 2011, became a shitty Social Media Platform, of course! And then they died.
 
- So yeah, as an invisible nobody, a hit to my non-existent discoverability is a risk I am willing to take. Next!
+So yeah, as an invisible nobody, a hit to my non-existent discoverability is a risk I am willing to take. Next!
 
 Another risk is that everything in my workflow will become just a little bit harder, and that will add up to impact my workflow. Not gonna lie, this one is legit.
 
@@ -210,7 +212,7 @@ And technically, any problem I run into with open source software is within my p
 So while I consider this to be the more substantial risk, it’s still one worth taking on.
 
 
-How’s That Been Going For You?
+## How’s That Been Going For You?
 
 Well, I’ve managed to make a lot of healthy replacements already; Mastodon, Firefox, Fastmail, Godot, Affinity Designer, and Scrivener, to name a few. I still have a ways to go. I’m desperately clinging to Atom, which is inadvisable as it was deprecated in December. I should really make finding another IDE I like a priority. I haven’t tried using Gitlab yet, either.
 
@@ -228,7 +230,7 @@ Patreon is by far the biggest risk to me personally. It’s raised a lot of inve
 
 I had cut Google out of my life a couple years ago for unrelated reasons, and so I only recently developed any need for Youtube at all, when I decided to start publishing video essays. There are a few semi-viable alternatives like Peertube, but they would necessitate sorting out my own hosting and would likely result in an extra decline in readership that I’m not sure is worth the trade. I’ve got my eye out for solutions but this one will take some time to bake. For now my mitigation is not to rely on Youtube for income. I may even opt out of ad revenue sharing if that’s an option. My understanding is it’s a pittance, and since I’m trans they were never going to recommend my work much anyway. I’ll rely on word of mouth.
 
-The Internet Didn’t Always Suck
+## The Internet Didn’t Always Suck
 
 And I believe it can not-suck again.
 
@@ -243,10 +245,9 @@ I can’t fix all of these problem on my own, but I can at least reduce my depen
 Maybe if I build a safe little corner of the internet, that imagines what the net could be rather than what it is, other people will find it and want to do the same. Or at least hang out for a while.
 
 
-Citations
+##Citations
 
-
-Alexander, Julia. “The Golden Age of YouTube Is Over.” The Verge, 5 Apr. 2019, www.theverge.com/2019/4/5/18287318/youtube-logan-paul-pewdiepie-demonetization-adpocalypse-premium-influencers-creators.
+Alexander, Julia. “The Golden Age of YouTube Is Over.” The Verge, 5 Apr. 2019, www.theverge.com/2019/4/5/18287318/youtube-logan-paul-pewdiepie-demonetization-adpocalypse-premium-influencers-creators
 
 Chung, Anna. “News Feeds, Old Content: A Brief History of Algorithmically Curated Feeds on Facebook and Twitter” Medium, 29 Apr. 2019, https://medium.com/@annawchung/news-feeds-old-content-a-brief-history-of-algorithmically-curated-feeds-on-facebook-and-twitter-85b5e5d8e30a
 
