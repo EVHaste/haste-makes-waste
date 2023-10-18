@@ -75,7 +75,7 @@ And whether it is explicitly intended or not, the result of this con is that the
 
 Let’s have an example.
 
-TikTok claims to have at least 150 million US users. Some of them are queer. And those queer users have learned that their posts will be suppressed if they talk openly about their queerness. But they’re still queer., and they still need to talk about it. It’s a communication platform, after all.
+TikTok claims to have at least 150 million US users. Some of them are queer. And those queer users have learned that their posts will be suppressed if they talk openly about their queerness. But they’re still queer, and they still need to talk about it. It’s a communication platform, after all.
 
 So they’ve developed Aesopian code phrases, [algospeak](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/), to get the message across contextually, substituting “lesbian” with “le dollar bean” or “legbutt” when they mean “LGBT” in order to avoid inciting the wrath of The all-seeing Algorithm. And this works for a while, until a brand gets pissed that their ad for holy water or whatever was displayed next to a video of a gay man living his best life, god forbid. And so the censors get updated, and the community invents new euphemisms and evades bans, and this bizarre game of 1337speak whack a mole continues in perpetuity.
 
