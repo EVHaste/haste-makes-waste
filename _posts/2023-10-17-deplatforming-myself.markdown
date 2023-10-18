@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deplatforming Myself - A Tech Manifesto"
+title:  "Deplatforming Myself: A Tech Manifesto"
 date:   2023-10-17 07:00:00 -0400
 categories: tech
 featured_image: '/images/featured/coins.jpg'
