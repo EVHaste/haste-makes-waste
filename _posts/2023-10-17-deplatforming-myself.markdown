@@ -36,13 +36,13 @@ And yet despite our proximity, you and I are functionally separated. If I scream
 
 Those decisions are made by another being, its geometry eldritch and reasoning unknowable. It is named The Algorithm, and it is both god and king in its domain.
 
-Algorithmic curation of content was invented, or if you prefer, inflicted by Facebook in 2011 as an update to its news feed. Instead of displaying your friend’s activity in a simple, reverse-chronological order, Facebook would first sort it on the backend to keep “the most interesting stuff at the top”. The specific details of how they calculated this, or indeed what interesting even meant in this context, were not provided. From the moment of its conception, the inner workings of the newborn Algorithm were closely guarded.
+Algorithmic curation of content was invented, or if you prefer, [inflicted by Facebook in 2011](https://medium.com/@annawchung/news-feeds-old-content-a-brief-history-of-algorithmically-curated-feeds-on-facebook-and-twitter-85b5e5d8e30a) as an [update to its news feed](https://web.archive.org/web/20110925211838/http://blog.facebook.com/blog.php?post=10150286921207131). Instead of displaying your friend’s activity in a simple, reverse-chronological order, Facebook would first sort it on the backend to keep “the most interesting stuff at the top”. The specific details of how they calculated this, or indeed what interesting even meant in this context, were not provided. From the moment of its conception, the inner workings of the newborn Algorithm were closely guarded.
 
 Attribution and academic discourse on this topic is tricky, because while it is clear that The Algorithm has changed many, many times in the years since, it is for the large part impossible to pinpoint precisely when or in what way. This lack of transparency is by design.
 
 What we do know is that today the Algorithm has been given control over not only the order in which a set number of things appear, but whether a given thing can appear at all, and in a manner which often supersedes user preferences. The feed is infinite. It scrolls forever. And only some of what’s in it is actually for you, in your best interests or serving your needs. Connect with your neighbor if you want, but you might not hear anything they say if The Algorithm isn’t convinced you care.
 
-By July 2022, CEO Mark Zuckerberg estimated in an earnings call that about 15% of the average user’s feed was comprised of algorithmically selected recommendations, from entities that they had not explicitly followed. The company’s stated goal is to more than double this percentage by the end of this year.
+By July 2022, CEO Mark Zuckerberg [estimated in an earnings call](https://s21.q4cdn.com/399680738/files/doc_financials/2022/q2/Meta-Q2-2022-Earnings-Call-Transcript.pdf) that about 15% of the average user’s feed was comprised of algorithmically selected recommendations, from entities that they had not explicitly followed. The company’s stated goal is to [more than double this percentage](https://www.pcmag.com/news/facebook-instagram-to-show-you-more-content-from-people-you-dont-follow) by the end of this year.
 
 There’s a legitimate problem to be solved in this space. As Facebook themselves described it way back when, there was more content on the platform than any one person could consume. Things that were interesting to users were getting lost in the noise. Noise which Facebook chose to make, so you might say they created the problem, too.
 
@@ -63,7 +63,7 @@ Honestly, our concept of “the internet” as a singular entity is outdated. It
 Not only are you and I on different internets, our internets are not equal.
 
 
-##The Dollar Bean Problem
+## The Dollar Bean Problem
 
 See, the benefit of The Algorithm to its owners is that now they have something to sell. Namely, your attention, on your behalf, and often in the form of ad space. Ads aren’t new, but this method of targeted distribution is. The owners have some data that they claim can predict your behavior, specifically, and although they will never allow this claim to be falsified, they will sell access to it. Just a peek here and there, a glimpse for brands that want something from you.
 
@@ -77,9 +77,9 @@ Let’s have an example.
 
 TikTok claims to have at least 150 million US users. Some of them are queer. And those queer users have learned that their posts will be suppressed if they talk openly about their queerness. But they’re still queer., and they still need to talk about it. It’s a communication platform, after all.
 
-So they’ve developed Aesopian code phrases, algospeak, to get the message across contextually, substituting “lesbian” with “le dollar bean” or “legbutt” when they mean “LGBT” in order to avoid inciting the wrath of The all-seeing Algorithm. And this works for a while, until a brand gets pissed that their ad for holy water or whatever was displayed next to a video of a gay man living his best life, god forbid. And so the censors get updated, and the community invents new euphemisms and evades bans, and this bizarre game of 1337speak whack a mole continues in perpetuity.
+So they’ve developed Aesopian code phrases, [algospeak](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/), to get the message across contextually, substituting “lesbian” with “le dollar bean” or “legbutt” when they mean “LGBT” in order to avoid inciting the wrath of The all-seeing Algorithm. And this works for a while, until a brand gets pissed that their ad for holy water or whatever was displayed next to a video of a gay man living his best life, god forbid. And so the censors get updated, and the community invents new euphemisms and evades bans, and this bizarre game of 1337speak whack a mole continues in perpetuity.
 
-The stakes are higher for these users than just burying a video diary, and this phenomenon is not restricted to TikTok. Youtube began mass demonetizing videos with LGBTQ subject matter to placate brands in 2017, in an event dubbed the adpocalypse by its community. Even when some of those rules were rolled back, it continues to have a chilling effect on creators to this day, who rely on this site to pay their bills and are now self-censoring everything that could conceivably be objectionable, prematurely, in order to protect their livelihood.  One side, and only one side, can destroy the other at whim.
+The stakes are higher for these users than just burying a video diary, and this phenomenon is not restricted to TikTok. Youtube began mass demonetizing videos with LGBTQ subject matter to placate brands in 2017, [in an event dubbed the adpocalypse](https://www.theverge.com/2019/4/5/18287318/youtube-logan-paul-pewdiepie-demonetization-adpocalypse-premium-influencers-creators) by its community. Even when some of those rules were rolled back, it continues to have a chilling effect on creators to this day, who rely on this site to pay their bills and are now self-censoring everything that could conceivably be objectionable, prematurely, in order to protect their livelihood.  One side, and only one side, can destroy the other at whim.
 
 And so we all do this little dance, for our god king The Algorithm, who won’t tell us what it wants, ever, or what it intends to punish, so we have to guess. We have to guess what it wants today, and what it will want tomorrow, based entirely on superstition and personal anecdote.
 
@@ -113,7 +113,7 @@ Because that’s the other thing; they closed the door behind us.
 
 The second reason that the modern internet no longer serves my needs, is its propensity to lock me in a room, before switching off the lights, and running away with my shit.
 
-The one-sided nature of relationships with The Platform mean that once it has established your dependence upon it, it can change the nature of that agreement at any time, without recourse. Actually, that’s worth unpacking, because a non-zero percentage of people will read that word and lose all sympathy. Somewhere out there, someone just said, it’s your own fault for doomscrolling, loser, and that’s weird, why are you talking to your monitor? But also addiction isn’t the the only, or even primary way that The Platform facilitates dependence.
+The one-sided nature of relationships with The Platform mean that once it has established your dependence upon it, [it can change the nature of that agreement at any time](https://theoatmeal.com/comics/reaching_people_2021), without recourse. Actually, that’s worth unpacking, because a non-zero percentage of people will read that word and lose all sympathy. Somewhere out there, someone just said, it’s your own fault for doomscrolling, loser, and that’s weird, why are you talking to your monitor? But also addiction isn’t the the only, or even primary way that The Platform facilitates dependence.
 
 By centralizing a critical piece of infrastructure, by making its use ubiquitous in an industry or to some facet of everyday life, The Platform constructs a new, digital world where not using it constitutes a disadvantage. The steady consolidation of corporations only serves to amplify this. Am I describing The Platform, or the economic concept of monopoly? Yes.
 
@@ -131,7 +131,7 @@ Gloriously enlightened Neo-liberal types will tell me that’s just the free mar
 
 I’m not great at coming up with pithy names for these, but do you know who is?
 
-Author Corey Doctorow observed this of the lifecycle of The Platform:
+Author Corey Doctorow [observed this](https://pluralistic.net/2023/01/21/potemkin-ai/) of the lifecycle of The Platform:
 
 #### …First, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die.
 
@@ -143,7 +143,7 @@ Even if  I had confidence that you and I were seeing the same thing, even if you
 
 The owners keep letting all their asshole friends in.
 
-Much like their product roadmaps, making my home on a platform means that I need to trust the moderation strategy of the owners. And I don’t.
+Much like their product roadmaps, making my home on a platform means that I need to trust the moderation strategy of the owners. [And I don’t](https://www.nytimes.com/2022/12/02/technology/twitter-hate-speech.html).
 
 This was always a foolish thing to do. To the extent that any Platform is being steered at all, they are steered by executives and venture capitalists. Now personally, I believe that empathy is inherently incompatible with any position that hoards that much wealth. If you had even a shred of it, you wouldn’t be a CEO in the first place, for the same reason you wouldn’t be a cop. In that way, The Platform self-selects for the worst possible moderation decisions and the worldview of the very worst kind of person.
 
@@ -259,4 +259,4 @@ Lorenz, Taylor. “Internet ‘algospeak’ is changing our language in real tim
 
 Oremus, Will & Alcantara, Chris & Merrill, Jeremy B. & Galocha, Arthur. “How Facebook shapes your feed.” The Washington Post, 26 Oct. 2021, https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/
 
-Tonkelowitz, Mark. “Interesting News, Any Time You Visi” Facebook, 20 Sep. 2011, https://web.archive.org/web/20110925211838/http://blog.facebook.com/blog.php?post=10150286921207131
+Tonkelowitz, Mark. “Interesting News, Any Time You Visit” Facebook, 20 Sep. 2011, https://web.archive.org/web/20110925211838/http://blog.facebook.com/blog.php?post=10150286921207131
