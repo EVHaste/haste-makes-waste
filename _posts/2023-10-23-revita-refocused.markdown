@@ -33,17 +33,18 @@ The full release was hotly anticipated. As the date approached without word of r
 
 In [an announcement](https://store.steampowered.com/news/app/1175460/view/3748741342946295591) published to the game’s Steam listing titled "The Current and Future State of Revita", Benstar elaborated on the circumstances behind its cancelation; financial complications arising from last-mile costs of QA, localization, and cross-platform porting by external partners.
 
-#### I know a few people have been anticipating the new update but I have some unfortunate news to share, that to some, might come as a bit of a surprise.
+{:style="color:gray; font-size: 80%;"}
+   I know a few people have been anticipating the new update but I have some unfortunate news to share, that to some, might come as a bit of a surprise.
 
-#### After nearly 2 years of hard work, time invested and money spent on the 2.0 update, I sadly have to announce that it and further work on Revita will come to a halt.
+   After nearly 2 years of hard work, time invested and money spent on the 2.0 update, I sadly have to announce that it and further work on Revita will come to a halt.
 
-#### After long discussions with our publisher, Dear Villagers, we reluctantly have come to the realisation that continuing work on Revita and its 2.0 update would be too costly, from both sides, to be worth pursuing further. The costs of porting, QA and localization alone would vastly outweigh any revenue gained from this update, even if we charged for it. 
+   After long discussions with our publisher, Dear Villagers, we reluctantly have come to the realisation that continuing work on Revita and its 2.0 update would be too costly, from both sides, to be worth pursuing further. The costs of porting, QA and localization alone would vastly outweigh any revenue gained from this update, even if we charged for it. 
 
-#### This decision was of course very difficult to make. The team and I have poured a lot of time, effort and personally quite a bit of money into it too, which we hope is visible from what we have shown so far, so trust me when I say this is the last thing I wanted to happen. 
+   This decision was of course very difficult to make. The team and I have poured a lot of time, effort and personally quite a bit of money into it too, which we hope is visible from what we have shown so far, so trust me when I say this is the last thing I wanted to happen. 
 
-#### It's an upsetting turn of events and ruefully one that is completely out of my hands. However, I'll be holding onto the update files and assets very closely, and who knows, hopefully the opportunity will show itself in the future and we will be able to release it in some form, just not any time soon. But trust me, if there is any way to make it happen, I'll try my darndest! 
+   It's an upsetting turn of events and ruefully one that is completely out of my hands. However, I'll be holding onto the update files and assets very closely, and who knows, hopefully the opportunity will show itself in the future and we will be able to release it in some form, just not any time soon. But trust me, if there is any way to make it happen, I'll try my darndest! 
 
-#### Thank you all for your support over the last few years. Revita and it's community truly mean the world to me and again I am devastated and upset that we couldn't deliver what everyone was eagerly waiting for.
+   Thank you all for your support over the last few years. Revita and it's community truly mean the world to me and again I am devastated and upset that we couldn't deliver what everyone was eagerly waiting for.
 
 
 Benstar later added on the community Discord:
