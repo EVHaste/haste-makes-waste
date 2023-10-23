@@ -96,6 +96,7 @@ I was also curious to know the details of their agreement; what options were eva
 Although Dear Villagers declined to provide those specific details, they did provide a response which suggests some good news for the future of Revita Refocused: thanks to community interest, the developer and publishers are once again actively exploring potential release options. Their full statement, provided exclusively to *Haste Makes Waste*, is enclosed below:
 
 ---
+
 {:style="color:gray; font-size: 95%;"}
 "We very much appreciate all your questions (By we, I mean Ben and the Publisher) but we are unable to provide some answers as they require a lot more explanation that neither the Developer nor the Publisher are comfortable with answering.
 
