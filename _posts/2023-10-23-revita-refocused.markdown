@@ -46,11 +46,8 @@ In [an announcement](https://store.steampowered.com/news/app/1175460/view/374874
 {:style="color:gray; font-size: 95%;"}
    Thank you all for your support over the last few years. Revita and it's community truly mean the world to me and again I am devastated and upset that we couldn't deliver what everyone was eagerly waiting for."
 
----
-
 Benstar later added on the community Discord:
 
----
 
 {:style="color:gray; font-size: 95%;"}
 "I'll also continue fighting the fight to make this update happen in some shape or form, even if it's not viable right now or anytime soon. I'd hate for Revita to end on such a sour note and with a basically, functionally complete update just catching dust on my harddrive :("
