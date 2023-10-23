@@ -33,26 +33,33 @@ The full release was hotly anticipated. As the date approached without word of r
 
 In [an announcement](https://store.steampowered.com/news/app/1175460/view/3748741342946295591) published to the game’s Steam listing titled "The Current and Future State of Revita", Benstar elaborated on the circumstances behind its cancelation; financial complications arising from last-mile costs of QA, localization, and cross-platform porting by external partners.
 
-{:style="color:gray; font-size: 90%; text-align: center;"}
-   I know a few people have been anticipating the new update but I have some unfortunate news to share, that to some, might come as a bit of a surprise.
+---
 
-{:style="color:gray; font-size: 90%; text-align: center;"}
-   After nearly 2 years of hard work, time invested and money spent on the 2.0 update, I sadly have to announce that it and further work on Revita will come to a halt.
+{:style="color:gray; text-align: center;"}
+"I know a few people have been anticipating the new update but I have some unfortunate news to share, that to some, might come as a bit of a surprise.
 
-{:style="color:gray; font-size: 90%; text-align: center;"}
-   After long discussions with our publisher, Dear Villagers, we reluctantly have come to the realisation that continuing work on Revita and its 2.0 update would be too costly, from both sides, to be worth pursuing further. The costs of porting, QA and localization alone would vastly outweigh any revenue gained from this update, even if we charged for it. ..
+{:style="color:gray; text-align: center;"}
+After nearly 2 years of hard work, time invested and money spent on the 2.0 update, I sadly have to announce that it and further work on Revita will come to a halt.
 
-{:style="color:gray; font-size: 90%; text-align: center;"}
-   ...It's an upsetting turn of events and ruefully one that is completely out of my hands. However, I'll be holding onto the update files and assets very closely, and who knows, hopefully the opportunity will show itself in the future and we will be able to release it in some form, just not any time soon. But trust me, if there is any way to make it happen, I'll try my darndest! 
+{:style="color:gray; text-align: center;"}
+After long discussions with our publisher, Dear Villagers, we reluctantly have come to the realisation that continuing work on Revita and its 2.0 update would be too costly, from both sides, to be worth pursuing further. The costs of porting, QA and localization alone would vastly outweigh any revenue gained from this update, even if we charged for it. ..
 
-{:style="color:gray; font-size: 90%; text-align: center;"}
-   Thank you all for your support over the last few years. Revita and it's community truly mean the world to me and again I am devastated and upset that we couldn't deliver what everyone was eagerly waiting for.
+{:style="color:gray; text-align: center;"}
+...It's an upsetting turn of events and ruefully one that is completely out of my hands. However, I'll be holding onto the update files and assets very closely, and who knows, hopefully the opportunity will show itself in the future and we will be able to release it in some form, just not any time soon. But trust me, if there is any way to make it happen, I'll try my darndest! 
 
+{:style="color:gray; text-align: center;"}
+Thank you all for your support over the last few years. Revita and it's community truly mean the world to me and again I am devastated and upset that we couldn't deliver what everyone was eagerly waiting for."
+
+---
 
 Benstar later added on the community Discord:
 
-{:style="color:gray; font-size: 90%; text-align: center;"}
-I'll also continue fighting the fight to make this update happen in some shape or form, even if it's not viable right now or anytime soon. I'd hate for Revita to end on such a sour note and with a basically, functionally complete update just catching dust on my harddrive :(
+---
+
+{:style="color:gray; text-align: center;"}
+"I'll also continue fighting the fight to make this update happen in some shape or form, even if it's not viable right now or anytime soon. I'd hate for Revita to end on such a sour note and with a basically, functionally complete update just catching dust on my harddrive :("
+
+---
 
 The beta branch of Refocused, containing roughly half of the update’s total content, would remain available on Steam, but would not be finished or ported to other platforms. They also clarified that the physical release of the original, 1.0 version of Revita would not be impacted and is [still slated for Q4 of this year](https://www.gematsu.com/2023/07/revita-physical-edition-for-ps5-ps4-and-switch-launches-in-q4-2023) on PS4, PS5, and Nintendo Switch.
 
@@ -98,15 +105,19 @@ I was also curious to know the details of their agreement; what options were eva
 
 Although Dear Villagers declined to provide those specific details, they did provide a response which suggests some good news for the future of Revita Refocused: in response to community feedback, the developer and publishers are once again actively exploring potential release options. Their full statement, provided exclusively to *Haste Makes Waste*, is enclosed below:
 
-{:style="color:gray; font-size: 90%; text-align: center;"}
+---
+
+{:style="color:gray; text-align: center;"}
 We very much appreciate all your questions (By we, I mean Ben and the Publisher) but we are unable to provide some answers as they require a lot more explanation that neither the Developer nor the Publisher are comfortable with answering.
 
-{:style="color:gray; font-size: 90%; text-align: center;"}
+{:style="color:gray; text-align: center;"}
 However, you'll be happy to hear that after your email and the community outpour, the Dev and the Publisher have picked up conversations regarding a potential release again, so there might be a positive surprise waiting in the future. Both the Developer and the Publisher only want the best for the game, the teams involved and its community, but at the end of the day it is also a business and since the project involves a lot of parties with various required and non required involvement which can become very complex, very quickly. We have listened intently to the vast outpour and support of the community and are trying our best to make something happen, though we hope it is understandable, that we can't make any promises as of now, since the original issues mentioned in the original post haven't vanished and things need to be properly figured out first.
 
-{:style="color:gray; font-size: 90%; text-align: center;"}
+{:style="color:gray; text-align: center;"}
 Cheers,
 Ben and Dear Villagers 
+
+---
 
 It’s no guarantee, the team emphasizes, but the renewed negotiation is a promising sign.
 
