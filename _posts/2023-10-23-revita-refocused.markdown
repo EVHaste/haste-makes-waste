@@ -6,7 +6,6 @@ categories: games, news
 featured_image: '/images/featured/revita_title.jpg'
 excerpt: "Tragically cancelled earlier this month, publisher Dear Villagers is reportedly revisiting the decision to cancel Revita Refocused, after an outpouring of community support."
 ---
-
 The 2.0 release of [Revita](https://store.steampowered.com/app/1175460/Revita/), the best twin-stick roguelike you’ve never heard of, has had a busy couple of weeks. Tragically cancelled earlier this month, publisher Dear Villagers is reportedly revisiting the decision after an outpouring of community support.
 
 Functionally complete, the title had been suddenly axed just prior to its scheduled release window. The news came as a shock to a small but dedicated fanbase, with some offering to help get the project over the finish line.
@@ -97,7 +96,7 @@ I was also curious to know the details of their agreement; what options were eva
 
 ## Dear Villagers Considers Reversing Decision
 
-Although Dear Villagers declined to provide those specific details, they did provide a response which suggests some good news for the future of Revita Refocused: in response to community feedback, the developer and publishers are once again actively exploring potential release options. Their full statement, provided exclusively to *Haste Makes Waste*, is enclosed below:
+Although Dear Villagers declined to provide those specific details, they did provide a response which suggests some good news for the future of Revita Refocused: thanks to community interest, the developer and publishers are once again actively exploring potential release options. Their full statement, provided exclusively to *Haste Makes Waste*, is enclosed below:
 
 ---
 {:style="color:gray; font-size: 95%;"}
