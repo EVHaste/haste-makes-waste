@@ -60,7 +60,6 @@ Benstar later added on the community Discord:
 
 The beta branch of Refocused, containing roughly half of the update’s total content, would remain available on Steam, but would not be finished or ported to other platforms. They also clarified that the physical release of the original, 1.0 version of Revita would not be impacted and is [still slated for Q4 of this year](https://www.gematsu.com/2023/07/revita-physical-edition-for-ps5-ps4-and-switch-launches-in-q4-2023) on PS4, PS5, and Nintendo Switch.
 
----
 
 ## Denial, Bargaining, Anger, Depression
 
@@ -73,8 +72,6 @@ A second adds, “I’m really sorry for your situation…..all that work…^^ I
 Other members of the community jumped in with offers to support and release the game themselves, ranging from providing localization labor, to launching and contributing to a Kickstarter. A few members bargained for a partial release with or without publisher consent, with one in particular offering, “Just release the change log and we’ll mod it in ;P”.
 
 Ultimately, Benstar responded that they would not be comfortable releasing an incomplete product, adding that while they couldn’t “talk publicly about business stuff whether good or bad”, that they had explored every available option and their “hands were bound”.
-
----
 
 Meanwhile, pockets of the community expressed disappointment in the publisher directly.
 
@@ -104,7 +101,7 @@ Although Dear Villagers declined to provide those specific details, they did pro
 
 ---
 {:style="color:gray; font-size: 95%;"}
-We very much appreciate all your questions (By we, I mean Ben and the Publisher) but we are unable to provide some answers as they require a lot more explanation that neither the Developer nor the Publisher are comfortable with answering.
+"We very much appreciate all your questions (By we, I mean Ben and the Publisher) but we are unable to provide some answers as they require a lot more explanation that neither the Developer nor the Publisher are comfortable with answering.
 
 {:style="color:gray; font-size: 95%;"}
 However, you'll be happy to hear that after your email and the community outpour, the Dev and the Publisher have picked up conversations regarding a potential release again, so there might be a positive surprise waiting in the future. Both the Developer and the Publisher only want the best for the game, the teams involved and its community, but at the end of the day it is also a business and since the project involves a lot of parties with various required and non required involvement which can become very complex, very quickly. We have listened intently to the vast outpour and support of the community and are trying our best to make something happen, though we hope it is understandable, that we can't make any promises as of now, since the original issues mentioned in the original post haven't vanished and things need to be properly figured out first.
@@ -113,7 +110,7 @@ However, you'll be happy to hear that after your email and the community outpour
 Cheers,
 
 {:style="color:gray; font-size: 95%;"}
-Ben and Dear Villagers 
+Ben and Dear Villagers"
 
 ---
 
