@@ -11,18 +11,31 @@ Plus, I figure that gaining familiarity with the virutal photography and cinemat
 ### Series 1: Digital Tourism
 Shots that don't align with any particular theme.
 
+<div class="gallery" data-columns="2">
+  <img src="/images/virtual-photography/cyberpunk-12-2-23-7.png">
+	 <img src="/images/virtual-photography/cyberpunk-12-2-23-8.png">
+</div>
+
+<div class="gallery" data-columns="3">
+	<img src="/images/virtual-photography/cyberpunk-12-2-23-2.png">
+	<img src="/images/virtual-photography/cyberpunk-12-2-23-3.png">
+	<img src="/images/virtual-photography/cyberpunk-12-2-23-4.png">
+	<img src="/images/virtual-photography/cyberpunk-12-2-23-5.png">
+	<img src="/images/virtual-photography/cyberpunk-12-2-23-6.png">
+	<img src="/images/virtual-photography/cyberpunk-12-2-23-1.png">
+	<img src="/images/virtual-photography/cyberpunk-11-29-23.png">
+	<img src="/images/virtual-photography/cyberpunk-11-29-23-2.png">
+	<img src="/images/virtual-photography/cyberpunk-12-2-23-9.png">
+</div>
+
+{:style="color:gray; font-size: 80%; text-align: center;"}
+*↑ Cyberpunk 2077. Photo mode + Path Tracing beta.[^3]*
+
 ![](/images/virtual-photography/ff14-11-26.jpg)
 
 {:style="color:gray; font-size: 80%; text-align: center;"}
 *↑ Final Fantasy XIV, The Bowl of Embers. Photo mode + ReShade [^2]*
 
-<div class="gallery" data-columns="2">
-	<img src="/images/virtual-photography/cyberpunk-11-29-23.png">
-  <img src="/images/virtual-photography/cyberpunk-11-29-23-2.png">
-</div>
-
-{:style="color:gray; font-size: 80%; text-align: center;"}
-*↑ Cyberpunk, Watson ward. Photo mode + Path Tracing beta.[^3]*
 
 <div class="gallery" data-columns="3">
 	<img src="/images/virtual-photography/pupperazzi-1-20-23.png">
@@ -39,9 +52,9 @@ Shots that don't align with any particular theme.
 
 ### Series 2: Otherworlds
 
-I'm particularly interested in capturing scenes from beyond the intended play area, where geography becomes surreal and abstract.
+Roads to nowhere; impossible landscapes; liminal spaces, and weird vibes.
 
-You can really appreciate some of the hacks that go into creating those beautiful environments you're supposed to be focused on; it feels akin to studying the individual strokes of a painter.
+I'm particularly interested in capturing scenes from beyond the intended play area, where geography becomes surreal and abstract. You can really appreciate some of the hacks that went into creating the levels you're supposed to be focused on; it feels akin to studying the individual strokes of a painter.
 
 <sub><sub>(Also it's funny.)
 
@@ -62,10 +75,10 @@ You can really appreciate some of the hacks that go into creating those beautifu
 
 
 {:style="color:gray; font-size: 80%; text-align: center;"}
-*↑ Out-of-bounds in the environments of Pupperazzi. I really appreciated some of the little touches by the designers, like the rooftop covered in lost frisbees and a sailboat inexplicably beached in a tree.*
+*↑ Out-of-bounds in the environments of Pupperazzi. I really appreciated some of the little touches by the designers, like the rooftop covered in lost frisbees and a sailboat inexplicably beached in a tree. Looking up from below the waterline allows you to depict objects suspended in the skybox; the texture only renders one-way.*
 
 {:style="color:gray; font-size: 80%; text-align: center;"}
-*↓ Behind the scenes of the "Mellowstone" level's resident cryptid, "Messie". By clipping underneath the water, you can see how her periodically looping, jaws-esque stalking animation was made. She's actually a school of three cheerios.*
+*↓ Behind the scenes of the "Mellowstone" level's resident cryptid, "Messie". By clipping underneath the water, you can see how her periodically looping, jaws-esque stalking animation was made. She's actually a school of three cheerios bouncing up and down below the map.*
 
 <div class="gallery" data-columns="1">
 	<img src="/images/virtual-photography/otherworlds/pupperazzi-mellie-scene-1.png">
