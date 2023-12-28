@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "City of Seattle Demolishes Black Lives Memorial Park"
-date:   2023-10-23 03:30:00 -0400
+date:   2023-12-27 23:00:00 -0400
 categories: games, news
 featured_image: '/images/featured/cal-anderson-sign.jpeg'
 excerpt: "The Seattle Department of Parks and Recreation demolished the Black Lives Memorial Garden early this morning, under supervision of the Seattle Police Department and private security firms."
