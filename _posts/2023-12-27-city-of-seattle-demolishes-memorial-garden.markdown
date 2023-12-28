@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "City of Seattle Demolishes Black Lives Memorial Park"
+title:  "City of Seattle Demolishes Black Lives Memorial Garden"
 date:   2023-12-27 23:00:00 -0800
 categories: news, activism
 featured_image: '/images/featured/cal-anderson-sign.jpeg'
