@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "City of Seattle Demolishes Black Lives Memorial Park"
-date:   2023-12-27 23:00:00 -0400
-categories: games, news
+date:   2023-12-27 23:00:00 -0800
+categories: news, activism
 featured_image: '/images/featured/cal-anderson-sign.jpeg'
-excerpt: "The Seattle Department of Parks and Recreation demolished the Black Lives Memorial Garden early this morning, under supervision of the Seattle Police Department and private security firms."
+excerpt: "The Seattle Department of Parks and Recreation demolished the Black Lives Memorial Garden early this morning, under supervision of the Seattle Police Department and private security firm Evergreen Off-Duty."
 ---
 
-**Cal Anderson Park —** The Seattle Department of Parks and Recreation demolished the Black Lives Memorial Garden early this morning, under supervision of the Seattle Police Department and private security firms.
+**Cal Anderson Park —** The Seattle Department of Parks and Recreation demolished the Black Lives Memorial Garden early this morning, under supervision of the Seattle Police Department and private security firm Evergreen Off Duty.
 
-The garden began as a single basil start in June of 2020, planted by activist Marcus Henderson during nationwide BLM protests. It had been maintained for over three years by members of the community as a mutual aid project, and was one of the last surviving landmarks from the Capitol Hill Autonomous Zone (CHAZ), alternatively known as the Capitol Hill Organized Protest (CHOP).
+The garden began as [a single basil start](https://crosscut.com/environment/2020/06/seattles-chaz-community-garden-takes-root) in June of 2020, planted by activist Marcus Henderson during nationwide BLM protests. It had been maintained for over three years by members of the community as a mutual aid project, and was one of the last surviving landmarks from the Capitol Hill Autonomous Zone (CHAZ), alternatively known as the Capitol Hill Organized Protest (CHOP).
 
 SPR has [issued a press release](https://parkways.seattle.gov/2023/12/27/statement-on-the-removal-of-the-cal-anderson-garden/) which alleges that its removal is meant to address “public safety issues” caused by the garden; specifically, public drug use, rodents, and the formation of homeless encampments. The prepared statement also claims that its “good faith conversations” to relocate the park were rejected by community organizers, who in return allege that those same negotiations were uncomfortably one-sided.
 
@@ -25,6 +25,8 @@ By the time I arrived at 9am, the garden had already been reduced to a mud pit. 
 I spoke at length with approximately eight members of the community who were in attendance for the demolition, with a few more just passing through with comments.
 
 Some of them were just arriving; others had been watching for the last three hours. Many called Capital Hill their home, and all were gracious enough to share their experience and perspectives with me on the condition of anonymity.
+
+![](/images/memorial-garden/cal-anderson-1.jpg)
 
 ## Good Morning, Merry Christmas, Goodbye
 
@@ -71,6 +73,8 @@ Others speculated about how the city viewed it.
 But one answer, in particular, will stick with me, because it’s personal.
 
 “My 4 year old planted collards in this garden. They’d come out here every day to take care of them, and play, and pull out weeds. When I told them what was happening, they were almost in tears… they just couldn’t understand why the police would take their collards away.”
+
+![](/images/memorial-garden/cal-anderson-2.jpg)
 
 ## A Space for Most
 
