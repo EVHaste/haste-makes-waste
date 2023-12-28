@@ -116,7 +116,7 @@ I was first referred to Lt. Bryan Clenna, who I was told could help me locate th
 
 When asked to describe the project: “Just one of those cleanups. Cleaning up the park.” He asked me to hold my questions, and that the next person could definitely answer them.
 
-After calling around a bit, I was introduced me to Jon Jainga. According to his Linkedin, he is the “Emergency Management and Park Security Manager”, and has worked for the City of Seattle for a little under 20 years. I did not know this in the moment but could have guessed by the end of the conversation, which would be approximately 15 seconds later.
+After calling around a bit, I was introduced to Jon Jainga. According to his Linkedin, he is the “Emergency Management and Park Security Manager”, and has worked for the City of Seattle for a little under 20 years. I did not know this in the moment but could have guessed by the end of the conversation, which would be approximately 15 seconds later.
 
 I asked Jainga to confirm a few basic details about the project.
 
