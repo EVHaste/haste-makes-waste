@@ -7,6 +7,13 @@ featured_image: '/images/featured/cal-anderson-sign.jpeg'
 excerpt: "The Seattle Department of Parks and Recreation demolished the Black Lives Memorial Garden early this morning, under supervision of the Seattle Police Department and private security firm Evergreen Off-Duty."
 ---
 
+---
+
+**[Update 12/28:** *Black Star Farmers has issued their own statement, which I've uploaded here. They've also updated their website, which for archiving purposes you can find here. I've reached out for further clarification and will write a new story if it continues to develop.]*
+
+---
+
+
 **Cal Anderson Park —** The Seattle Department of Parks and Recreation demolished the Black Lives Memorial Garden early this morning, under supervision of the Seattle Police Department and private security firm Evergreen Off Duty.
 
 The garden began as [a single basil start](https://crosscut.com/environment/2020/06/seattles-chaz-community-garden-takes-root) in June of 2020, planted by activist Marcus Henderson during nationwide BLM protests. It had been maintained for over three years by members of the community as a mutual aid project, and was one of the last surviving landmarks from the Capitol Hill Autonomous Zone (CHAZ), alternatively known as the Capitol Hill Organized Protest (CHOP).
