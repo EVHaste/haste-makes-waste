@@ -9,10 +9,9 @@ excerpt: "The Seattle Department of Parks and Recreation demolished the Black Li
 
 ---
 
-**[Update 12/28:** *Black Star Farmers has issued their own statement, which I've uploaded here. They've also updated their website, which for archiving purposes you can find here. I've reached out for further clarification and will write a new story if it continues to develop.]*
+**[Update 12/28:** *Black Star Farmers has issued their own statement, which I've uploaded [here](https://evhaste.com/images/memorial-garden/pressresponse.pdf). They've also updated their website, which for archiving purposes you can find [here](https://evhaste.com/images/memorial-garden/black-star-farmers-site-update.png). I've reached out for further clarification and will write a new story if it continues to develop.]*
 
 ---
-
 
 **Cal Anderson Park —** The Seattle Department of Parks and Recreation demolished the Black Lives Memorial Garden early this morning, under supervision of the Seattle Police Department and private security firm Evergreen Off Duty.
 
