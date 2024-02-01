@@ -17,7 +17,7 @@ menu_settings:
     - title: 'About'
       url: '/about'
     - title: 'RSS'
-      url: '/feed.xml'
+      url: 'https://evhaste.com/feed.xml'
     - title: 'Become a Patron!⭐'
       url: 'https://www.patreon.com/evhaste'
 #    - title: 'Hire Me! ⭐'
