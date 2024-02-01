@@ -16,6 +16,8 @@ menu_settings:
       url: '/projects/'
     - title: 'About'
       url: '/about'
+    - title: 'RSS'
+      url: '/feed.xml'
     - title: 'Become a Patron!⭐'
       url: 'https://www.patreon.com/evhaste'
 #    - title: 'Hire Me! ⭐'

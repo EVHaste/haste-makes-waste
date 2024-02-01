@@ -9,7 +9,7 @@ featured_image: /images/featured/home.jpg
 
 My name is **Elizabeth Haste** (she/her), but we're internet friends now so you can just call me Val. I'm a queer writer and aspiring video essayist based in Seattle, Washington. Chessie is my cat and co-writer, who says: 2wmnbp0er6541.
 
-## I'm a writer and video essayist.
+## Here's What I'm Working On
 
 My **nonfiction** work is primarily literary criticism and academic essays, which I write for fun because I'm a weirdo with no social life. If you're into **critical theory, tabletop RPG's, antifascism,** and **niche dating sims,** then I'm basically the only place you're going to get that incredibly specific combination.
 
