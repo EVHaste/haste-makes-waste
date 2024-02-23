@@ -99,7 +99,7 @@ First, there's a conversation to be had about copyright. Recall that Reddit has 
 
 Even setting aside the [portions of it which were reposted without the consent of the original authors](https://www.reuters.com/legal/lawsuit-says-openai-violated-us-authors-copyrights-train-ai-chatbot-2023-06-29/), who actually owns data scraped from the internet is still an unsettled question in IP law, one which is being *hotly* litigated at this very moment. I expect it will continue to be for some time; there's no way any corporation gives up on a potential honey pot this size.[^5]
 
-So depending on the terms of the share program, this might be a way for Reddit to position itself as having made a good faith attempt to compensate their most active users for their work. After all, this offer is only available to some users; the inclusion of mods suggests that volume of contribution might have been a selection criteria. Currently, there's no way to know, without crowdsourcing and verifying a list of folks who received the notification.
+So depending on the terms of the share program, this might be a way for Reddit to position itself as having made a good faith attempt to compensate their most active users for their work.(Update: [The FAQ](https://redditforcommunity.com/directed-share-program) includes information on their invitation schedule and user selection criteria!)
 
 Since the final agreement has not been made available, and Reddit is adamant that it will not take further questions yet, it's possible that it *could* include terms settling disputes or enforcing arbitration on this issue. It would be prudent for anyone considering this offer to have a lawyer review it carefully at that time, to make sure you understand what you might be giving up.
 
@@ -133,7 +133,7 @@ It'd be sort of like ransacking someone's picnic in the park, but leaving them a
 
 ## In Any Case...
 
-Recipients of Reddit's offer are discouraged from asking additional questions at this time, and are directed to "the FAQ" instead... but [the Reddit FAQ](https://www.reddit.com/r/help/wiki/faq/) was deprecated ten months ago. It subsequently directs users to their new [Help Center](https://support.reddithelp.com/hc/en-us/p/redditor_help_center)... which as of writing *also* does not contain any article or mention of the Directed Share Program.
+Recipients of Reddit's offer are discouraged from asking additional questions at this time, and are directed to the FAQ instead. (Update: [added a link to the DSP FAQ](https://redditforcommunity.com/directed-share-program); thanks for the assist!)
 
 All that is to say, that while they *really* do not want to be contacted for additional questions, I'm obviously going to do it anyway. There's not a snowball's chance in hell that they respond; but if they do, I will update this story.
 
