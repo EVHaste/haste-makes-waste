@@ -36,12 +36,12 @@ contact_settings:
 
 social_settings:
   patreon_url: 'https://www.patreon.com/evhaste'
+  youtube_url: 'https://www.youtube.com/@EVHaste'
   facebook_url: ''
   mastodon_url: 'https://mastodon.social/@haste'
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''
-  youtube_url: ''
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
@@ -60,8 +60,6 @@ social_settings:
   kickstarter_url: ''
   soundcloud_url: ''
   bandcamp_url: ''
-  twitch_url: 'https://www.twitch.tv/evhaste'
-  linkedin_url: 'https://www.linkedin.com/in/evhaste/'
 
 color_settings:
   background_color: '#ffffff'
