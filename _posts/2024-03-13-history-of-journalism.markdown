@@ -35,7 +35,7 @@ You might need to open this in a new tab, it's a long boi.
 
 ## The Script:
 
-<sub>*(Please note, I was flexible with delivery when the video was in production, so this may not be 100% verbatim! I didn't originally write this to be written, but thought it would be a nice accessibility option, so cleaning it up and moving the citations to be in-line is on my to-do list.)*</sub>
+<sub>*(Please note, I was flexible with delivery when the video was in production, so this may not be 100% verbatim! I didn't originally write this to be read, but thought it would be a nice accessibility option, so cleaning it up and moving the citations to be in-line is on my to-do list.)*</sub>
 
 ---
 
