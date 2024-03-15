@@ -1154,7 +1154,7 @@ I ended up cutting this part for the video, because I couldn't figure out how to
 
 *If you haven’t read any of Douglass’ work, he’s just a phenomenal writer, and he opened with a particularly bold fuck-you in this first issue: his “Letter to Thomas Auld”, the white man who had previously enslaved him, on the anniversary of his emancipation.*
 
-*#### “What you are, I am. You are a man, and so am I. God created both, and made us separate beings. I am not by nature bound to you, or you to me…*
+#### *“What you are, I am. You are a man, and so am I. God created both, and made us separate beings. I am not by nature bound to you, or you to me…*
 
 #### *Your wickedness and cruelty committed in this respect on your fellow-creatures, are greater than all the stripes you have laid upon my back, or theirs. It is an outrage upon the soul—a war upon the immortal spirit, and one for which you must give account at the bar of our common Father and Creator.” Frederick Douglass, The North Star*
 
