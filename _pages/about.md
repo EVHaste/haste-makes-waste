@@ -7,11 +7,13 @@ featured_image: /images/featured/home.jpg
 
 ![](/images/featured/haste_makes_waste.png)
 
-My name is **Elizabeth Haste** (she/her), but we're internet friends now so you can just call me Val. I'm a queer writer and aspiring video essayist based in Seattle, Washington. Chessie is my cat and co-writer, who says: 2wmnbp0er6541.
+My name is **Elizabeth Haste** (she/her), but we're internet friends now so you can just call me Val. I'm a queer writer and video essayist based in Seattle, Washington. Chessie is my cat and co-writer, who says: 2wmnbp0er6541.
 
 ## Here's What I'm Working On
 
-My **nonfiction** work is primarily literary criticism and academic essays, which I write for fun because I'm a weirdo with no social life. If you're into **critical theory, tabletop RPG's, antifascism,** and **niche dating sims,** then I'm basically the only place you're going to get that incredibly specific combination.
+My **nonfiction** work is primarily independent journalism at the intersection of tech, LGBTQ+, and human rights topics. I'm particularly interested stories local to the Cap Hill area; if you've got a tip for me, hit me up!
+
+I also mix in literary criticism and academic essays, which I write for fun because I'm a weirdo with no social life. If you're into **critical theory, tabletop RPG's, antifascism,** and **niche dating sims,** then I'm basically the only place you're going to get that incredibly specific combination.
 
 If you like **urban fantasy** or **horror**, you might enjoy my short stories. **Renegade Ghost** is a serial about Sally Blaire, a transgender superhero desperate to atone for her violent past as a vigilante. What would a truly antifascist superhero look like? I dunno and neither does she, I guess we'll find out together. It updates, uh, occasionally!
 
