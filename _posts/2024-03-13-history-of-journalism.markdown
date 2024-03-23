@@ -7,7 +7,7 @@ featured_image: '/images/featured/a-history-of-Journalism.jpg'
 excerpt: "I've made good on my threat to release a video essay.<br><br>This is part one of three; an educational series on the history, methodology, and ethics of journalism. Inside: a code of conduct, a jailbreak, and some light cannibalism. The script is included if you'd prefer to read it, instead!"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gamhSvCS9iU?si=MGWuH-DHfcueLuGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/19IWtFntmoU?si=ej_T7kQLBzQq78dI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 I've made good on my threat to release a video essay. The script is below if you'd prefer to read it, instead!
