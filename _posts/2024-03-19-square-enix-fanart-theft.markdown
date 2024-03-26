@@ -233,7 +233,7 @@ Retaureau says that this lack of protection, combined with the precarity, poor w
 
 “I don’t draw anymore,” he says, “I’m totally disgusted about it.”
 
-His greatest regret is that his passion project, which he had poured years of work into, remains unfinished. Retaureau describes it as a “adult/seinan manga-euro comic”, set in a fantasy-steampunk world. He says he hopes he can see it completed someday, but because of his physical health and anxiety, it just isn’t an option right now.
+His greatest regret is that his passion project, which he had poured years of work into, remains unfinished. Retaureau describes it as a “adult/seinan manga-euro comic”, set in a fantasy-steampunk world. He says he hopes he can see it completed someday, but because of his physical health, it just isn’t an option right now.
 
 ![](/images/ff8-investigation/BaniereAxonefBorderless1600x400.png)
 
